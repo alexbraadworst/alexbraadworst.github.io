@@ -30,6 +30,14 @@ a {
     color: var(--link);
 }
 
+.code {
+    border-radius: 10%;
+    background-color: #27202e;
+    font-family: 'Courier New', Courier, monospace;
+    height: 2rem;
+    width: 10rem;
+}
+
 .hero-img img {
     border-radius: 5%;
 }
@@ -42,10 +50,7 @@ a {
     padding: 1rem;
     font-size: 0.75rem;
     text-align: center;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
     image-rendering: pixelated;
-    image-rendering: -webkit-optimize-contrast;
 }
 
 .webrings > * {
@@ -60,6 +65,7 @@ a {
     :root {
       --text: #1b1521;
       --main: #F0EDF4;
+      --link: #a5848b;
       --header: #6d5981;
     }
 }
