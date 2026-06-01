@@ -5,11 +5,21 @@
   --header: #CAB8DD;
 }
 
+@font-face {
+    font-family: "kurrent";
+    src: url(/fonts/Kurrent.ttf);
+}
+
+@font-face {
+    font-family: "fraktur";
+    src: url(/fonts/Strassburg\ Fraktur.ttf);
+}
+
 body {
     display: flex;
     flex-direction: column;
-    margin-left: auto;
-    margin-right: auto;
+    min-height: 100vh;
+    margin: 0;
     background-color: var(--main);
     color: var(--text);
     font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -30,6 +40,36 @@ a {
     color: var(--link);
 }
 
+nav {
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+    height: 1rem;
+    margin: 0.4rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav a {
+    text-decoration: none;
+    margin-left:5rem;
+    margin-right:5rem;
+    transition: transform 0.2s ease, color 0.2s ease;
+    display: inline-block;
+}
+
+nav a:hover {
+    color: var(--header);
+    transform: translateY(-0.2rem); 
+}
+
+footer {
+    padding: 1rem;
+    font-size: 0.75rem;
+    text-align: center;
+    image-rendering: pixelated;
+}
+
 .code {
     border-radius: 10%;
     background-color: #27202e;
@@ -40,25 +80,15 @@ a {
 
 .hero-img img {
     border-radius: 5%;
+    max-width: 100%;
 }
 
 .hero-img-inner {
     margin: 0.5rem;
 }
 
-.footer {
-    padding: 1rem;
-    font-size: 0.75rem;
-    text-align: center;
-    image-rendering: pixelated;
-}
-
-.webrings > * {
-    margin-bottom: 0.5rem;
-}
-
-.webrings > *:last-child {
-    margin-bottom: 0;
+.main {
+    flex: 1;
 }
 
 @media (prefers-color-scheme: light) {
@@ -72,9 +102,8 @@ a {
 
 @media screen and (min-width:768px) {
     .main {
-        padding-top: 5rem;
+        padding-top: 2rem;
         width: 50%;
-        margin-bottom: auto;
         margin-left: auto;
         margin-right: auto;
     }
@@ -85,7 +114,6 @@ a {
     .hero-text {
         margin: 1rem;
         order: 2;
-
     }
 
     .hero-img {
