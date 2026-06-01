@@ -70,6 +70,19 @@ footer {
     image-rendering: pixelated;
 }
 
+
+
+.container {
+    display: flex;
+    margin: 1rem;
+    flex-direction: column;
+    padding: 1rem;
+    background: linear-gradient(180deg, rgba(255,255,255,0.09), rgba(255,255,255,0.04));
+    border: 2px solid #CAB8DD;
+    box-shadow: 0 10px 30px var(--shadow-color), inset 0 1px 0 rgba(255,255,255,0.2);
+    border-radius: 10px;
+}
+
 .code {
     border-radius: 10%;
     background-color: #27202e;
@@ -102,10 +115,13 @@ footer {
 
 @media screen and (min-width:768px) {
     .main {
-        padding-top: 2rem;
         width: 50%;
         margin-left: auto;
         margin-right: auto;
+    }
+    .badges {
+        max-width: 50rem;
+        display: inline-block
     }
 }
 

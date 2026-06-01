@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="/css/grids-responsive-min.css">
     <link rel="icon" type="image/png" href="/img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml">
 
     <title>harakiri</title>
     <meta name="description" content="juniper's website">
@@ -21,16 +22,6 @@
     <meta property="og:image" content="https://harakiri.moe/img/apple-touch-icon.png">
 
     <style>
-        .container {
-            display: flex;
-            margin: 1rem;
-            flex-direction: column;
-            padding: 1rem;
-            background: linear-gradient(180deg, rgba(255,255,255,0.09), rgba(255,255,255,0.04));
-            border: 2px solid #CAB8DD;
-            box-shadow: 0 10px 30px var(--shadow-color), inset 0 1px 0 rgba(255,255,255,0.2);
-            border-radius: 10px;
-        }
         a {
             text-decoration: none;
         }
@@ -41,7 +32,7 @@
 <nav>
     <a href="/">home</a>
     <a href="/blog/">blog</a>
-    <a href="/about.html">about me</a>
+    <a href="/about.html">about</a>
 </nav>
 
 <body>
@@ -71,7 +62,7 @@
                     <ul>
                         <li><b>go for it, prussia!:</b> <a href="https://ehapgame.exusiai.link">ehapgame.exusiai.link</a></li>
                         <li><b>dicereum:</b> <a href="https://dicereum.xyz">dicereum.xyz</a></li>
-                        <li><b>guestbook:</b> <a href="https://shironeko.atabook.org/">shironeko.atabook.org/</a></li>
+                        <li><b>guestbook:</b> <a href="https://shironeko.atabook.org/">shironeko.atabook.org</a></li>
                         <li><b>config files:</b> <a href="https://github.com/alexbraadworst/blood-river">here</a></li>
                     </ul>
                 </div>
@@ -82,20 +73,26 @@
     </div>
 </body>
 
-<footer> 
+<footer>
     <p>
-        built: {{BUILD_TIME}} · ref: {{REF}} · commit: {{COMMIT}}
+        built: {{BUILD_TIME}} · <a href="/LICENSE">license</a> · <a href="https://shironeko.atabook.org">guestbook</a>
     </p>
     <div class="badges">
         <a href="https://harakiri.moe"><img src="/img/button.png" alt="my button! feel free to add!"></a>
         <a href="https://brainmade.org/"><img src="/img/badges/brainmade.png" alt="brainmade.org 88x31 button"></a>
         <img src="/img/badges/underwear.gif" alt="underwear is for losers!">
         <a href="https://phi.rip"><img src="https://phi.rip/88x31.gif" alt="phi.rip 88x31 button"></a>
+        <a href="https://ezri.pet"><img src="https://ezri.pet/assets/img/badges/ezri.png" alt="ezri.pet 88x31 button"></a>
         <a href="https://nekonokuni.neocities.org/"><img src='https://nekonokuni.neocities.org/images/my-graphics/button1.gif' alt="neko no kuni 88x31 button"></a>
         <a href="https://ata.moe" target="_blank"><img src="https://ata.moe/88x31.png" alt="ata.moe 88x31 button"></a>
-        <a href="https://atabook.org"><img src="/img/badges/atabook.gif" alt="atabook 88x31 button"></a>
-        <a href="https://www.defectivebydesign.org"><img src="/img/badges/drm.gif" alt="defective by design 88x31 button"></a>
+        <a href="https://eightyeightthirty.one"><img src="https://eightyeightthirty.one/88x31.png" alt="eightyeightthirty.one 88x31 button"></a>
         <a href="https://anybrowser.org/campaign/"><img src="/img/badges/any-browser.gif" alt="best viewed with your eyes" style="height: 31px; width: 88px;"></a>
+        <a href="https://www.defectivebydesign.org"><img src="/img/badges/drm.gif" alt="defective by design 88x31 button"></a>
+        <img src="/img/badges/ao3.gif">
+        <a href="https://suckless.org"><img src="/img/badges/suckless.png" alt="suckless 88x31 button"></a>
+        <a href="https://atabook.org"><img src="/img/badges/atabook.gif" alt="atabook 88x31 button"></a>
+        <a href="https://vscodium.com"><img src="/img/badges/vscodium.png" alt="vscodium 88x31 button"></a>
+        <a href="https://11ty.dev"><img src='/img/badges/eleventy.gif' alt="eleventy 88x31 button"></a>
     
         <!-- no ai ring -->
         <map name="noaimini5">

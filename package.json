@@ -1,0 +1,29 @@
+{
+  "name": "alexbraadworst.github.io",
+  "version": "1.0.0",
+  "description": "Personal website with links and such",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbraadworst/alexbraadworst.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbraadworst/alexbraadworst.github.io/issues"
+  },
+  "homepage": "https://github.com/alexbraadworst/alexbraadworst.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy-plugin-rss": "^3.0.0",
+    "eleventy-plugin-toc": "^1.1.5",
+    "markdown-it-anchor": "^9.2.0"
+  }
+}

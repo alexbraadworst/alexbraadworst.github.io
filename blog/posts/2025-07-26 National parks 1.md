@@ -1,0 +1,22 @@
+---
+title: National parks pt.1
+date: 2025-07-26
+---
+
+For the next week or so I'm going on a trip to some of the various national parks in the Western US. This is the first part of what will hopefully be a few blog posts about the whole thing. Mostly it'll be hiking and stuff though, so not much I can say. Maybe I'll put the photos on my gallery.
+
+## Flight to Las Vegas
+The first park I'm visiting is Zion so naturally the easiest airport to fly to is Las Vegas Int.l. I flew on an American Airlines A321neo from DFW, and I can say that the flight experience was very decidedly normal routine. DFW is a pretty easy airport to navigate (then again I'm a native to the area so...) and overall check-in is quick. It seems that TSA has gotten some more advanced scanning hardware since this time I didn't even need to take my shoes off or take the electronics out of my backpack, I could just leave eveyrthing as-is in the bag. This is pretty convenient. Obviously, you can probably guess how I feel about government and the surveillance, REAL ID stuff... that's besides the point. The TSA officers were very receptive and checked my film separately without much fuss. Pretty smooth sailing. I got a quick burger and boarded without much incident. 
+
+The flight was pretty smooth. There wasn't any turbulence which is odd considering my usual experiences with flights over the western desert regions, to California and such. American is a very decidedly average carrier, they had a snack service... I think that the Biscoff biscuits have gotten a little cheaper, I don't recall them being that crumbly. It's a pretty quick flight anywho. Restrooms were pretty well maintained when comparing to other experiences with domestic flights. The seats American install on their A321neos are fine, the cabin's in a 3-3 layout for economy class with 2 universal power sockets in between each seat, a USB-A port on the seat in front of you, and a phone holder in addition to the tray table. Free WiFi was offered for T-Mobile customers which I am, and non T-Mobile customers had access for 20 minutes after watching an ad. Of course, you could also just pay for it. Interesting strategy... Leg room was great but I'm short (166cm) so maybe it could be an issue for people on the taller side. 
+
+## At Las Vegas
+Vegas isn't at all the focus for the trip, plus I've been there one too many times in my life (once). Once you land in Las Vegas you can smell the human rot and despair and the faux jovial aura that eminates from every pebble and brick in this god-awful city. It is the perfect embodiment of the American consumerist plague. Immediately upon exiting the gate, you are greeted by slot machines. All the way to the baggage claim, there are gambling areas dotting the hallways. It's really a tragedy, these people are so addicted that even on their way out they feel the need to do one more spin. None of these people looked happy at all. 
+
+The shuttle to the rental car area was pretty fast. Enterprise had a decent selection and it was a quick enough process. 
+
+### Dinner
+I ate dinner at this Vietnamese place called Saigon Corner. I'm a big fan of Vietnamese food and I just wanted something comforting to eat, since I didn't eat breakfast or a proper lunch. I ended up ordering the "Saigon Premium" pho and snails in an egg yolk sauce, along with an iced coffee. Honestly, I can't really tell the difference between different types of pho, but I can tell if it's good or not, and this pho was decidedly quite nice. Very filling and delicious, without being too heavy. There was plenty of meat, which had a good texture, and it was priced at a nice competitive price. The snails were also quite nice, there was lots of actual snail meat as opposed to the snails' shit, which is a good step up from the snails I'm used to eating back in China. The sauce tasted reminiscent of Chinese salted duck eggs, very interesting. Lastly, the iced coffee was excellent, Vietnamese coffee is my favorite. Strong yet not too bitter, no sourness and it was very creamy. To anyone visiting, it's pretty good, maybe consider stopping by here. The waiter even gave me a free extra coffee since he thought I ordered another to go (I changed my coffee to to-go since I had to leave) and just told me to take it since he already made it. Good guys!
+
+## Driving to Zion
+The drive to Zion is pretty scenic. It crosses a lot of hilly backcountry and the stars are really visible here, a city-dweller like me would like it a lot. Not much else to say, it's just driving. 

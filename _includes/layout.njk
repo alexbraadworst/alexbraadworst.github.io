@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/blog/style.css">
+    <link rel="stylesheet" href="/css/pure-min.css">
+    <link rel="stylesheet" href="/css/grids-responsive-min.css">
+    <link rel="icon" type="image/png" href="/img/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml">
+
+    <title>{{title or "harakiri.moe"}}</title>
+    <meta name="description" content="juniper's website">
+    <meta name="author" content="jz">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="blog post">
+    <meta property="og:description" content="read it idk">
+    <meta property="og:url" content="https://harakiri.moe">
+    <meta property="og:image" content="https://harakiri.moe/img/apple-touch-icon.png">
+
+</head>
+<nav>
+    <a href="/">home</a>
+    <a href="/blog/">blog</a>
+    <a href="/about.html">about</a>
+</nav>
+
+<body>
+    <div class="main">
+        <div class="pure-g hero">
+                <div class="blog-content">
+                    <div style ="text-align:center;">
+                        <h2 class="post-title">{{ title }}</h2>
+                        {% if date %}
+                        <div class="post-metadata">
+                            <span class="post-date">{{ date | readableDate }}</span>
+                            <span class="post-reading-time">• {{ content | readingTime }}</span>
+                        </div>
+                        {% endif %}
+                    </div>
+                    
+                    <article class="post-body">
+                    {{ content | safe }}
+                    </article>
+                </div>
+        </div>
+    </div>
+</body>
+<footer>
+        
+    <p>
+        built: {{BUILD_TIME}} · <a href="/LICENSE">license</a> · <a href="https://shironeko.atabook.org">guestbook</a>
+    </p>
+    <div class="badges">
+        <a href="https://harakiri.moe"><img src="/img/button.png" alt="my button! feel free to add!"></a>
+        <a href="https://brainmade.org/"><img src="/img/badges/brainmade.png" alt="brainmade.org 88x31 button"></a>
+        <img src="/img/badges/underwear.gif" alt="underwear is for losers!">
+        <a href="https://phi.rip"><img src="https://phi.rip/88x31.gif" alt="phi.rip 88x31 button"></a>
+        <a href="https://ezri.pet"><img src="https://ezri.pet/assets/img/badges/ezri.png" alt="ezri.pet 88x31 button"></a>
+        <a href="https://nekonokuni.neocities.org/"><img src='https://nekonokuni.neocities.org/images/my-graphics/button1.gif' alt="neko no kuni 88x31 button"></a>
+        <a href="https://ata.moe" target="_blank"><img src="https://ata.moe/88x31.png" alt="ata.moe 88x31 button"></a>
+        <a href="https://eightyeightthirty.one"><img src="https://eightyeightthirty.one/88x31.png" alt="eightyeightthirty.one 88x31 button"></a>
+        <a href="https://anybrowser.org/campaign/"><img src="/img/badges/any-browser.gif" alt="best viewed with your eyes" style="height: 31px; width: 88px;"></a>
+        <a href="https://www.defectivebydesign.org"><img src="/img/badges/drm.gif" alt="defective by design 88x31 button"></a>
+        <img src="/img/badges/ao3.gif">
+        <a href="https://suckless.org"><img src="/img/badges/suckless.png" alt="suckless 88x31 button"></a>
+        <a href="https://atabook.org"><img src="/img/badges/atabook.gif" alt="atabook 88x31 button"></a>
+        <a href="https://vscodium.com"><img src="/img/badges/vscodium.png" alt="vscodium 88x31 button"></a>
+        <a href="https://11ty.dev"><img src='/img/badges/eleventy.gif' alt="eleventy 88x31 button"></a>
+    
+        <!-- no ai ring -->
+        <map name="noaimini5">
+        <area href="https://baccyflap.com/noai" shape="rect" coords="25,16,61,29" target="_blank" alt="no ai webring" title="no ai webring">
+        <area href="https://baccyflap.com/noai/?prv&s=nug" target="_top" shape="rect" coords="2,2,19,17" alt="previous" title="previous">
+        <area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="66,22,70,28" alt="random" title="random">
+        <area href="https://baccyflap.com/noai/?nxt&s=nug" target="_top" shape="rect" coords="69,2,85,17" alt="next" title="next">
+        </map>
+        <img usemap="#noaimini5" src="https://baccyflap.com/noai/miniwidget5.gif" alt="the top of a fuzzy, black sphere with two arrows rising from it, one curving to the left, one to the right. across the bulk of the sphere it reads NO AI / WEBRING in squiggly, uneven letters and next to those words is a small question mark"> 
+    </div>
+        
+</footer>
+        
+
+</html>
