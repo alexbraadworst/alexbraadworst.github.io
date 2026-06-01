@@ -37,9 +37,9 @@ jobs:
           COMMIT=$(git rev-parse --short HEAD)
           REF=${GITHUB_REF#refs/*/}
 
-          find _site -name "*.html" -exec sed -i "s|{{BUILD_TIME}}|$BUILD_TIME|g" {} +
-          find _site -name "*.html" -exec sed -i "s|{{COMMIT}}|$COMMIT|g" {} +
-          find _site -name "*.html" -exec sed -i "s|{{REF}}|$REF|g" {} +
+          sed -i "s|{{BUILD_TIME}}|$BUILD_TIME|g" index.html about.html _includes/layout.njk
+          sed -i "s|{{COMMIT}}|$COMMIT|g" index.html about.html _includes/layout.njk
+          sed -i "s|{{REF}}|$REF|g" index.html about.html _includes/layout.njk
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
