@@ -37,7 +37,6 @@ jobs:
           COMMIT=$(git rev-parse --short HEAD)
           REF=${GITHUB_REF#refs/*/}
 
-          # Finds every HTML file generated inside _site and replaces placeholders
           find _site -name "*.html" -exec sed -i "s|{{BUILD_TIME}}|$BUILD_TIME|g; s|{{COMMIT}}|$COMMIT|g; s|{{REF}}|$REF|g" {} +
 
       - name: Deploy to Neocities
@@ -51,5 +50,7 @@ jobs:
       - name: Deploy to Nekoweb
         uses: indiefellas/deploy2nekoweb@main
         with:
-          api_token: ${{ secrets.NEKOWEB_API_TOKEN }}
-          dir: _site
+          nekoweb-api-key: ${{ secrets.NEKOWEB_API_TOKEN }}
+          nekoweb-domain: 'seppuku.nekoweb.org'
+          nekoweb-username: 'seppuku'
+          directory: 'public'
