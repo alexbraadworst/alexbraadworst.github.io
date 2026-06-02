@@ -1,8 +1,8 @@
 :root{
-  --text: #F0EDF4;
-  --main: #1b1521;
-  --link: #F9C5D1;
-  --header: #CAB8DD;
+    --text: #F0EDF4;
+    --main: #1b1521;
+    --link: #F9C5D1;
+    --header: #CAB8DD;
 }
 
 @font-face {
@@ -22,7 +22,7 @@ body {
     margin: 0;
     background-color: var(--main);
     color: var(--text);
-    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'Hack', 'Courier New', Courier, monospace;
     font-size: 1rem;
 }
 
@@ -74,6 +74,7 @@ footer {
 
 .container {
     display: flex;
+    height: auto;
     margin: 1rem;
     flex-direction: column;
     padding: 1rem;
@@ -101,6 +102,8 @@ footer {
 }
 
 .main {
+    display: flex;
+    flex-direction: column;
     flex: 1;
 }
 

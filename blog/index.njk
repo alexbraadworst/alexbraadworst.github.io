@@ -2,27 +2,28 @@
 layout: layout.njk
 eleventyExcludeFromCollections: true
 ---
+
 <div class="pure-u-1" style="text-align: center;margin-bottom: 0; font-family: 'Hack', 'Courier New', Courier, monospace">
-    <h1 style="margin:0;">posts</h1>
+    <h1 style="margin-top: 0;">posts</h1>
 </div>
 
 
 <div class="blog-grid">
 {% for post in collections.posts | reverse %}
-    <div class="container blog-card">
-    <h3 class="blog-card-title">
-        <a href="{{ post.url }}">{{ post.data.title }}</a>
-    </h3>
-    
-    <time class="blog-card-date">
-        {{ post.date | readableDate }}
-    </time>
-    
-    <p class="blog-card-preview">
-        {{ post.content | striptags | truncate(180) }}
-    </p>
-    
-    <a href="{{ post.url }}" class="blog-card-link">Read full post →</a>
+    <div class="blog-card">
+        <h3 class="blog-card-title">
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+        </h3>
+        
+        <time class="blog-card-date">
+            {{ post.date | readableDate }}
+        </time>
+        
+        <p class="blog-card-preview">
+            {{ post.content | striptags | truncate(250) }}
+        </p>
+        
+        <a href="{{ post.url }}" class="blog-card-link">read →</a>
     </div>
 {% endfor %}
 </div>

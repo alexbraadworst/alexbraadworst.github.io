@@ -1,3 +1,10 @@
+:root{
+  --text: #F0EDF4;
+  --main: #1b1521;
+  --link: #F9C5D1;
+  --header: #CAB8DD;
+}
+
 .blog-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -6,7 +13,10 @@
 
 .blog-card {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
-    padding-top: 0;
+    background-color: #2F2934;
+    border-radius: 0.5rem;
+    padding: 0rem 1rem 1rem 1rem;
+    margin: 2rem;
     overflow-wrap: break-word;
     word-wrap: break-word;
     word-break: break-word;
@@ -14,12 +24,14 @@
 
 .blog-card:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
 }
 
 .blog-card-title {
-    text-decoration: none;
-    margin: 0 0 0.5rem 0;
+    a {
+        text-decoration: none;
+    };
+    margin: 0 0 1rem 0;
     font-size: 1.4rem;
 }
 
@@ -60,7 +72,7 @@
   margin-bottom: 3rem;
 }
 
-.site-title a { color: #fff; text-decoration: none; font-size: 2rem; }
+.site-title a { color: var(--header); text-decoration: none; font-size: 2rem; }
 .site-subtitle { color: #888; font-size: 0.9rem; margin-top: -0.5rem; }
 .back-arrow { color: #888; text-decoration: none; font-size: 1.5rem; }
 
@@ -69,7 +81,7 @@
 .post-date { color: var(--header); }
 
 .post-body h2, .post-body h3 {
-  color: #fff;
+  color: var(--header);
   margin-top: 2rem;
 }
 
