@@ -47,3 +47,9 @@ jobs:
           dist_dir: _site
           cleanup: true
           neocities_supporter: true
+      
+      - name: Deploy to Nekoweb
+        uses: pusteblume-p/nekoweb-deploy@v1
+        with:
+          api_token: ${{ secrets.NEKOWEB_API_TOKEN }}
+          dir: _site
