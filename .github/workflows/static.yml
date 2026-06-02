@@ -49,7 +49,7 @@ jobs:
           neocities_supporter: true
       
       - name: Deploy to Nekoweb
-        uses: pusteblume-p/nekoweb-deploy@v1
+        uses: indiefellas/deploy2nekoweb@main
         with:
           api_token: ${{ secrets.NEKOWEB_API_TOKEN }}
           dir: _site
