@@ -53,4 +53,4 @@ jobs:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_TOKEN }}
           nekoweb-domain: 'seppuku.nekoweb.org'
           nekoweb-username: 'seppuku'
-          directory: 'public'
+          directory: '_site'
