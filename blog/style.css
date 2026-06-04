@@ -89,8 +89,11 @@ li {
 
 /* reader */
 .blog-content {
-    width: 100%;
-    line-height: 1.5em;
+  margin: 1rem;
+  width: 100%;
+  p {
+    line-height: 1.5rem;
+  }
 }
 
 .blog-content img {
@@ -122,5 +125,8 @@ li {
 @media (max-width: 768px) {
   .blog-grid {
     grid-template-columns: 1fr;
+  }
+  .blog-content h1, h2, h3, h4{
+    text-align: center;
   }
 }
