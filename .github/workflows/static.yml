@@ -43,6 +43,6 @@ jobs:
         uses: indiefellas/deploy2nekoweb@main
         with:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_TOKEN }}
-          nekoweb-domain: 'seppuku.nekoweb.org'
+          nekoweb-domain: 'harakiri.moe'
           nekoweb-username: 'seppuku'
           directory: '_site'
