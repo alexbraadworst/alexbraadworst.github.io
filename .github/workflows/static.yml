@@ -38,14 +38,6 @@ jobs:
           REF=${GITHUB_REF#refs/*/}
 
           find _site -name "*.html" -exec sed -i "s|{{BUILD_TIME}}|$BUILD_TIME|g; s|{{COMMIT}}|$COMMIT|g; s|{{REF}}|$REF|g" {} +
-
-      - name: Deploy to Neocities
-        uses: bcomnes/deploy-to-neocities@v3
-        with:
-          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          dist_dir: _site
-          cleanup: true
-          neocities_supporter: true
       
       - name: Deploy to Nekoweb
         uses: indiefellas/deploy2nekoweb@main
