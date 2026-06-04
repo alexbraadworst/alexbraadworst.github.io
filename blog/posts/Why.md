@@ -1,5 +1,5 @@
 ---
-title: why am i here
+title: Why
 date: 2026-05-22
 ---
 
