@@ -5,308 +5,310 @@ title: 100 questions
 date: 2026-06-14
 
 ---
+
 questions from [burypink](https://burypink.neocities.org/gifts)
 
 heh
 
-1) time and date u started this?
- june 14, 2026, 21:49
+**_1) time and date u started this?_**  
+june 14, 2026, 21:49
 
-2) asl?
+**_2) asl?_**  
 i can sign some basic stuff like "what is your name" n that kinda stuff...?
 
-3) opinions on musicals?
+**_3) opinions on musicals?_**  
 love them, my favorite is dear evan hansen
 
-4) favorite snack?
-either dried squid (i'm asian ok) or dried mango 
+**_4) favorite snack?_**  
+either dried squid (i'm asian ok) or dried mango
 
-5) have u ever been in love?
+**_5) have u ever been in love?_**  
 yeah \<3
 
-6) favorite pokemon?
+**_6) favorite pokemon?_**  
 errr, ditto
 
-7) mario kart main?
+**_7) mario kart main?_**  
 luigi with the mach bike, can't go wrong
 
-8) tf2 main?
+**_8) tf2 main?_**  
 don't play
 
-9) do you laugh at youtube poops?
+**_9) do you laugh at youtube poops?_**  
 ngl yeah
 
-10) are you listening to music right now?
+**_10) are you listening to music right now?_**  
 yeah, listening to dariacore 2 by leroy rn
 
-11) favorite shape?
+**_11) favorite shape?_**  
 squircles
 
-12) do you believe in astrology?
+**_12) do you believe in astrology?_**  
 nah, it's fun though
 
-13) do you believe in the occult?
+**_13) do you believe in the occult?_**  
 i guess...? if by that you mean ancestors' spirits and ghosts and stuff
 
-14) opinions on vocaloid?
+**_14) opinions on vocaloid?_**  
 it's fire i love teto =3=
 
-15) would you ever want to be a rockstar?
+**_15) would you ever want to be a rockstar?_**  
 depends, if i'm a niche punk rocker then hell yeah, could never be a big star though
 
-16) do you easily get stressed?
+**_16) do you easily get stressed?_**  
 yeah, it's pretty bad ngl
 
-17) what is/was your favorite class in high school?
+**_17) what is/was your favorite class in high school?_**  
 ap euro! i loved that shit, knew all the content beforehand and my teacher was cool asf :p
 
-18) what pokemon type would you be? dual types are allowed lol
+**_18) what pokemon type would you be? dual types are allowed lol_**  
 ghost
 
-19) rei or asuka?
-both. both is good :33
+**_19) rei or asuka?_**  
+both. both is good :33  
 i'd say asuka but they're both really cute and unique in their own ways
 
-20) favorite html tag?
+**_20) favorite html tag?_**  
 footer
 
-21) are you religious?
+**_21) are you religious?_**  
 yeah i guess, see 13
 
-22) opinions on nightcore?
+**_22) opinions on nightcore?_**  
 that shit was peak, it's prob a nightmare for artists though
 
-23) did you go through any major phase? (emo, goth, weeaboo, etc)
+**_23) did you go through any major phase? (emo, goth, weeaboo, etc)_**  
 all of the above...
 
-24) are you good at drawing?
+**_24) are you good at drawing?_**  
 eh, somewhat decent. i can only draw anime girls
 
-25) do you crack your joints?
+**_25) do you crack your joints?_**  
 yea
 
-26) do you read visual novels?
+**_26) do you read visual novels?_**  
 yep, favorite is kindred spirits on the roof
 
-27) can you sew?
+**_27) can you sew?_**  
 i can do some basic stuff like patching clothes or sewings buttons on
 
-28) can you cook?
+**_28) can you cook?_**  
 yeah, i can cook chinese food plus some stereotypical texmex/american fare
 
-29) most expensive thing you've bought?
+**_29) most expensive thing you've bought?_**  
 my laptop (thinkpad p14s), used it was $1300
 
-30) opinions on cosplay?
+**_30) opinions on cosplay?_**  
 yes please, some of my friends are cosplayers and i wanna try someday
 
-31) what's your most hated band/musician?
+**_31) what's your most hated band/musician?_**  
 drake, it gives me like a knee-jerk reaction when i hear that guy on the radio
 
-32) are you a dramatic person?
+**_32) are you a dramatic person?_**  
 ehhhh, depends who you aks. i'm not sure myself.
 
-33) what emoticon do you use most?
+**_33) what emoticon do you use most?_**  
 :3 or ;-;
 
-34) can a miracle certainly occur?
+**_34) can a miracle certainly occur?_**  
 i guess bro
 
-35) would you let a vampire suck ur blood?
+**_35) would you let a vampire suck ur blood?_**  
 if they're cute :3
 
-36) do you have a celebrity crush?
+**_36) do you have a celebrity crush?_**  
 ado
 
-37) do you like snow?
+**_37) do you like snow?_**  
 YESSS, as a texan we don't get much so it's a really nice day whenever it does
 
-38) were you really into greek mythology as a kid?
+**_38) were you really into greek mythology as a kid?_**  
 still am
 
-39) what are some things you could competently deliver a speech on?
+**_39) what are some things you could competently deliver a speech on?_**  
 anything humanities, ie. history (especially european history or contemporary history), theology, philosophy, or probably fountain pens and other stationery related topics
 
-40) are you good at spelling?
+**_40) are you good at spelling?_**  
 yeah, i used to win hella spelling bees
 
-41) which touhou wud u fuk?
+**_41) which touhou wud u fuk?_**  
 sakuya and marisa are my favs so ig that answers the question
 
-42) do you think there's going to be a robot takeover?
+**_42) do you think there's going to be a robot takeover?_**  
 who says that's not already happened
 
-43) HAS SCIENCE GONE TOO FAR??!?!??!?!
+**_43) HAS SCIENCE GONE TOO FAR??!?!??!?_**  
 i wouldn't say so, it's just that science isn't being directed to the right things not that it's going too far
 
-44) would you be an angel or devil?
+**_44) would you be an angel or devil?_**  
 angel ofc smh
 
-45) sine, cosine, or tangent?
+**_45) sine, cosine, or tangent?_**  
 tangent, sine and cosine are too basic
 
-46) do you like licorice?
+**_46) do you like licorice?_**  
 fuck no
 
-47) whats one thing you cant stand that everyone else loves?
+**_47) whats one thing you cant stand that everyone else loves?_**  
 boba, i just get my tea without the pearls, don't see why people are so crazy about them
 
-48) what books did you like as a kid?
+**_48) what books did you like as a kid?_**  
 i never really read "kid" books, i kinda skipped straight from like charlotte's web to some actual books. i remember the first full length book i ever read was 1984 when i was about 6 and i reread it then over 10 times, has to be one of my favorite books ever and certainly was back then
 
-49) can you play any instruments?
+**_49) can you play any instruments?_**  
 guitar and piano
 
-50) what song would you want to play at your wedding?
+**_50) what song would you want to play at your wedding?_**
 
 
-51) do you believe in reincarnation?
+**_51) do you believe in reincarnation?_**  
 no, i believe in spirits + ghosts and stuff
 
-52) finish the sentence: I'm just a guy who ______
+**_52) finish the sentence: I'm just a guy who _______**  
 isn't one
 
-53) have you been to another continent?
+**_53) have you been to another continent?_**  
 yeah, i've been to all of them except antarctica
 
-54) whats your worst habit?
+**_54) whats your worst habit?_**  
 sleeping at 4 am when i have to wake up at 8 am every day
 
-55) favorite vegetable?
+**_55) favorite vegetable?_**  
 potatoes!
 
-56) whats something stupid that scared the shit outta you as a kid?
+**_56) whats something stupid that scared the shit outta you as a kid?_**  
 the sounds the fridge made
 
-57) whats one of your guilty pleasures?
+**_57) whats one of your guilty pleasures?_**  
 hunting/fishing
 
-58) would you rather be a ghost or a vampire?
+**_58) would you rather be a ghost or a vampire?_**  
 vampire, i can be like rubuska
 
-59) what do you fear most?
+**_59) what do you fear most?_**  
 death
 
-60) do you sleep with any plushies?
+**_60) do you sleep with any plushies?_**  
 yeah, a blahaj and a squishmallow
 
-61) what hobby do you just not understand?
+**_61) what hobby do you just not understand?_**  
 unboxing videos, what's in my bag, etc
 
-62) do you like the taste of alcohol?
+**_62) do you like the taste of alcohol?_**  
 yeah, alcohol's actually some sorta magic potion on me, i feel so fucking good when i get tipsy that's why i don't drink much T^T
 
-63) are you a hopeless romantic?
+**_63) are you a hopeless romantic?_**  
 i guess bro
 
-64) which deadly sin best fits you?
+**_64) which deadly sin best fits you?_**  
 sloth
 
-65) which of your physical features do you like the most?
+**_65) which of your physical features do you like the most?_**  
 my hair, i love it and my routine, gets a ton of compliments and it makes me so proud =3=
 
-66) are your ears pierced?
+**_66) are your ears pierced?_**  
 no
 
-67) have you ever been in a physical fight?
+**_67) have you ever been in a physical fight?_**  
 yeah, not many though
 
-68) where do you buy your clothes?
+**_68) where do you buy your clothes?_**  
 the mall (ie uniqlo) or mercari
 
-69) where would you live if you could live anywhere?
+**_69) where would you live if you could live anywhere?_**  
 taiwan or new zealand
 
-70) do believe in magic? or is it all a trick?
+**_70) do believe in magic? or is it all a trick?_**  
 ehhhhhhhh, i think there's spiritual force but it's not like usable yk
 
-71) have you read umineko when they cry? you should!
+**_71) have you read umineko when they cry? you should!_**  
 no, will do when i have time o7
 
-72) what is the worst chore to do?
+**_72) what is the worst chore to do?_**  
 doing dishes
 
-73) what did your parents almost name you?
+**_73) what did your parents almost name you?_**  
 alexander, lwk a tuff name but i ended up not liking the gender they gave me much
 
-74) what would you want your name to be if you were not your current gender?
+**_74) what would you want your name to be if you were not your current gender?_**  
 see above
 
-75) what were your first words?
+**_75) what were your first words?_**  
 爸爸
 
-76) what do you want your last words to be?
-i dunno, depends how i'm dying. 
+**_76) what do you want your last words to be?_**  
+i dunno, depends how i'm dying.  
 "E gol da alemanha"
 
-77) when did you first regularly start going online?
+**_77) when did you first regularly start going online?_**  
 i dunno, i was like 8 or 9
 
-78) what year do you miss the most?
+**_78) what year do you miss the most?_**  
 2024
 
-79) are you psychic?
+**_79) are you psychic?_**  
 with my besties yea :3
 
-80) would you fuck a clone of yourself? you're not allowed to kill yourself.
+**_80) would you fuck a clone of yourself? you're not allowed to kill yourself._**  
 the hell? i guess bro
 
-81) what do you use to listen to music?
+**_81) what do you use to listen to music?_**  
 downloaded flacs or spotify if i must
 
-82) whats the biggest city you've been to?
+**_82) whats the biggest city you've been to?_**  
 tokyo, also the biggest period
 
-83) favorite animal?
+**_83) favorite animal?_**  
 lynxes or capybaras
 
-84) what web browser do you use?
+**_84) what web browser do you use?_**  
 [qutebrowser](https://qutebrowser.org/)
 
-85) are you allergic to kitty cats???????????
+**_85) are you allergic to kitty cats???????????_**  
 no thank fuck :3
 
-86) do you like energy drinks?
+**_86) do you like energy drinks?_**  
 yeah, i usually drink monster if i need to pull an all nighter
 
-87) would ever spend money on tf2 unusuals/csgo skins/gacha pulls/etc
+**_87) would ever spend money on tf2 unusuals/csgo skins/gacha pulls/etc_**  
 already have lmao, i've spent on hsr and reverse 1999
 
-88) when do you usually go to bed?
+**_88) when do you usually go to bed?_**  
 2-4 am
 
-89) how often do you wash your hair?
+**_89) how often do you wash your hair?_**  
 every 3-4 days
 
-90) would you download a car?
+**_90) would you download a car?_**  
 yes
 
-91) what was your favorite show as a kid?
+**_91) what was your favorite show as a kid?_**  
 lucky star, introduced me to anime and i still love it
 
-92) whats the silliest hat you own?
+**_92) whats the silliest hat you own?_**  
 stereotypical asian rice farmer hat, use it for gardening
 
-93) what album/song do you're feeling angsty
+**_93) what album/song do you're feeling angsty_**  
 deathconsciousness by have a nice life
 
-94) do you make OCs?
+**_94) do you make OCs?_**  
 nah
 
-95) whats the goofiest thing you do when completely alone?
+**_95) whats the goofiest thing you do when completely alone?_**  
 i sing to myself past all-state music lol
 
-96) do you like fireworks?
+**_96) do you like fireworks?_**  
 nah
 
-97) favorite painter?
+**_97) favorite painter?_**  
 eugene delacroix, jmw turner, jean-honore fragonard, or jacques-louis david.
 
-98) favorite numbers?
+**_98) favorite numbers?_**  
 24 cuz jeff gordon
 
-99) what genre of vidya gaems are you really good at? (fps, fightan, danmaku, racing, whatever)
+**_99) what genre of vidya gaems are you really good at? (fps, fightan, danmaku, racing, whatever)_**  
 grand strategy, racing games
 
-100) time and date you finished this?
+**_100) time and date you finished this?_**  
 june 14 2026 23:08
+
