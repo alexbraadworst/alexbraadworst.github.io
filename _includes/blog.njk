@@ -25,6 +25,18 @@ og_description: read it idk
             <article class="post-body">
                 {{ content | safe }}
             </article>
+            <div style="display: block; height: auto;">
+                <div id="cusdis_thread"
+                    data-theme="dark"
+                    data-host="https://cusdis.com"
+                    data-app-id="4247a37f-7606-4069-9f30-35684dfcd08a"
+                    data-page-id="{{ page.fileSlug }}"
+                    data-page-url="https://harakiri.moe{{ page.url }}"
+                    data-page-title="{{ title }}">
+                ></div>
+            </div>
+                
+            <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
         </div>
     </div>
 </div>
