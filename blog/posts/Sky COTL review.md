@@ -8,7 +8,7 @@ Recently I've started playing Sky: Children of the Light, and I have to say it's
 ## Gameplay
 If you go by any usual definition this game is pretty boring. Scratch that, it's very boring. Without diving into the details of the story, it's pretty slow paced and almost every character you meet has its own sidequest. The issue here lies in the fact that there are no words to be found in any of these, meaning that everything has to be orchestrated as if it's some sort of puppet show. Sure, there is a deeper plot, and I can understand why they made this creative decision, but to me this is somewhat of a dealbreaker; every game that I like to play does so through a detailed narrative, factions I can form opinions about, and greater themes. Without a greater literary component, there's not much for me to latch onto lore-wise. I suppose the characters are pretty cute though. 
 
-![Cutie :3](../media/qownnotes-media-aebISF.png)
+![Cutie :3](media/qownnotes-media-aebISF.png)
 
 
 Sky has a massive open world and plenty of different realms for you to discover and enjoy. I myself haven't found all of the the spirits yet. The task herein is actually quite difficult since you have basically no ingame map (one exists but is utterly useless since you can't access it on the move and is extraordinarily undetailed) and have to manually fly everywhere. I would say however that this in fact only contributes to the game experience since in other games you basically just fast forward through it all. It forces you to stay in the "here and now."
@@ -22,7 +22,7 @@ To be frank, there's *lots* of bugs that seemingly have always been there and ju
 ## Social features
 This by far is what I feel to be the greatest selling point of this game, and why I would personally recommend you give it a try. The whole game is built around the vibrant worldwide community that has come to dwell in this world. In my first day of playing seriously, I met so many new people from places ranging from Peru to Spain to China and everywhere in between. Everyone was so welcoming and I'm happy to report that the Sky COTL community is probably one of the most genuine and friendly playerbases I've seen in basically any game. Why? The whole experience is built around playing with other players and interacting with the content that they make. Not only are there a ton of amazing shared spaces for you to explore but there are also things like... live music!?
 
-![hell yes.](../media/qownnotes-media-wLhBhj.png)
+![hell yes.](media/qownnotes-media-wLhBhj.png)
 
 *Did I read that right? Live music!??!?* That's right. Not only that but people are actually pretty good at playing these ingame instruments and you get to watch tons of live performances. It's pretty magical and I eventually want to learn how to play these things too... seems pretty fun.
 

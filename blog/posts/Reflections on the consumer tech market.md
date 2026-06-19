@@ -5,23 +5,23 @@ date: 2025-11-28
 
 I built my computer around February of 2023, with some major upgrades having taken place since then, especially with a CPU upgrade in March 2024. This build had a budget of about ~$800 and I think that what I got was a pretty decent bit of computer for that amount of money. If one includes the upgrades and computing peripherals, I spent a total of around $1700 for my entire setup. 
 
-![What it looks like on most days.](../media/qownnotes-media-PxxHtB.png)
+![What it looks like on most days.](media/qownnotes-media-PxxHtB.png)
 
-![](../media/qownnotes-media-HKWFoL.png)
+![](media/qownnotes-media-HKWFoL.png)
 
 Why do I say this? The parts I got at the time were a steal at the time, but why bring these figures up now? The fact of the matter is that the consumer electronics space has simply become far, far more expensive than it was previously, even with a timeframe as short as this. In fact, it is practically unaffordable to purchase a computer at a decent pricepoint if one considers new parts. There are a few main reasons behind this shift, however the biggest culprit is the surge in the AI bubble and the race to snatch as much computing power as possible by these AI companies. Case in point: the consumer tech market is dying, in favor of catering towards these large AI corporations and the corresponding market bubble.
 
 The big headliner these days is RAM. RAM is necessary for any computer, and having more of it allows you to accomplish more and different tasks using said computer; I don't suppose I need to say this to whoever is reading this. As we all know, these days RAM is utterly unaffordable. Take the kit my computer uses for instance.
 
-![This kit in normal times was actually really good value and I'd recommend it if the prices ever go down...](../media/qownnotes-media-Vwrvdo.png)
+![This kit in normal times was actually really good value and I'd recommend it if the prices ever go down...](media/qownnotes-media-Vwrvdo.png)
 
 I got this kit of memory for US$77.99 from Newegg in February 2023, when 32 GB kits were still pretty expensive. Of course, they decreased in price over time, but they've been creeping back up...
 
-![Graph from PCPartPicker](../media/qownnotes-media-SSoZBc.png)
+![Graph from PCPartPicker](media/qownnotes-media-SSoZBc.png)
 
 From a low of about ~$50 this summer, the price of this kit has shot up more than 3x and it will now cost you around $180. What a world.
 
-![Excellent...](../media/qownnotes-media-JzOyaj.png)
+![Excellent...](media/qownnotes-media-JzOyaj.png)
 
 Why in the fuck is this happening? Well, the answer is just a few clicks away with modern internet; AI firms such as OpenAI have utterly gobbled up the RAM market with their ambitious new expansion plans. OpenAI is probably the main player in the LLM world at the moment, what with their products ChatGPT and Sora. As a high schooler, the impact they've had is pretty astounding, especially for students, and absolutely not in a good way whatsoever. If I may, I'll just list a few of the terrible complications of AI usage at my school in particular, as a first-hand observer...
 
@@ -55,7 +55,7 @@ Well shit. Thanks Trumpf, I hope you're happy that we're as a government buying 
 
 Consider this love-triangle of fossil fuels, the US Government, and AI companies for a moment. Now turn your attention back to RAM, and it all makes sense...
 
-![](../media/qownnotes-media-xSHdKd.png)
+![](media/qownnotes-media-xSHdKd.png)
 
 Oh hell! No wonder the prices have gone up, they're buying up so much that eventually this one singular AI company could consume 40% OF GLOBAL OUTPUT. No wonder Micron disbanded Crucial to focus on AI, if they're buying up that much then I'd shift all my production to this fat market too! And this really is the situation that all of us (at least in the United States) are facing; a cabal of the leading AI entrepeneurs, the government, and other large corporations, cannibalizing our nation's resources, people, and capital, all to enrich themselves for what limited time they have left on this earth. It's cannibalism on a societal level, and while it might just be RAM chips today, soon it'll grow to food, housing, you name it... if we don't do anything about this oligarchization of the United States economy. Materialism and social media will catch up to all of us then, because we'll be too blinded by vanity and the pleasure trap to act. Don't act surprised when we end up in that dystopian society.
 

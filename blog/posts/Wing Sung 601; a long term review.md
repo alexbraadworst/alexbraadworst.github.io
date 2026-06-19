@@ -9,7 +9,7 @@ That all being said, let's begin.
 #  The pen I have
 My particular Wing Sung 601 is a clear demonstrator with an EF nib that I bought from 365Days Stationery on AliExpress. 
 
-![Hello!](../media/bca0559e-644c-45b3-9122-46fd6a2cffd9.jpg)
+![Hello!](media/bca0559e-644c-45b3-9122-46fd6a2cffd9.jpg)
 
 My experience with this particular seller has been pretty good in the past. They have a good reputation and their products ship pretty fast by AliExpress standards; it took less than a week for this pen to arrive, which is a miracle compared to some other stuff on AliExpress. They offer all the colorways offered by Wing Sung and I'd recommend them if you want to buy this pen yourself. Just remember it's "365Days," and not "365 Days."
 
@@ -25,7 +25,7 @@ One concern that some may have (me included) is whether the pen will feel sticky
 ## Writing experience
 The Wing Sung 601 is a replica of the Parker 51 and therefore has its iconic hooded nib. 
 
-![](../media/swappy-20260603_143120.png)
+![](media/swappy-20260603_143120.png)
 
 *Gee... wonder where Wing Sung got the idea for this design...*
 
@@ -41,7 +41,7 @@ This pen's on the smaller side. As someone with smol cute hands, this is perfect
 
 In my experience, a fill will last about a week to two weeks of writing; the ink capacity is great and with an extra fine nib it doesn't go through much ink. There are no hard starts since this cap seals extremely well; this slip cap seals better than some of my screw cap pens like the Admok M800 which is double the price. I've left this pen upright for days and it writes immediately every time.
 
-![](../media/1727f952-559c-4bfe-8bf0-a693c542039a.jpg)
+![](media/1727f952-559c-4bfe-8bf0-a693c542039a.jpg)
 
 
 # Using the pen at school
@@ -51,7 +51,7 @@ This pen's been my daily pen for school since I got it; I use just this pen alon
 
 One thing that people are concerned with about bringing fountain pens to school is what'll happen if someone borrows it. My first immediate response to this is: bring a backup. In my experience, no matter what fountain pen you have or what nib it has, dumbasses at school will still ruin it. (even your friends). Bring protection:
 
-![](../media/1747a225-c52f-42a7-b0cf-9bd8c54b9172.jpg)
+![](media/1747a225-c52f-42a7-b0cf-9bd8c54b9172.jpg)
 
 However... that's not really an answer to the question. What WILL happen?
 

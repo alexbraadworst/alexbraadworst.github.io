@@ -16,7 +16,7 @@ export default function (eleventyConfig) {
   eleventyConfig.on("eleventy.after", async ({ dir }) => {
     if (process.env.ELEVENTY_RUN_MODE !== "build") return;
 
-    const mediaDir = path.join(dir.output, "blog/media");
+    const mediaDir = path.join(dir.output, "blog/posts/media");
     if (!fs.existsSync(mediaDir)) return;
 
     const files = fs.readdirSync(mediaDir, { recursive: true });
@@ -54,7 +54,7 @@ export default function (eleventyConfig) {
   
   eleventyConfig.addTransform("fix-media-paths", function (content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
-      return content.replace(/src="\.\.\/media\//g, 'src="/blog/media/');
+      return content.replace(/src="media\//g, 'src="/blog/posts/media/');
     }
     return content;
   });

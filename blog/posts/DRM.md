@@ -5,7 +5,7 @@ date: 2025-08-30
 
 I'm a big proponent of physical media, especially when it comes to the music world. I think that buying something directly is the best way to support your favorite artists, rather than streaming it on a service like Spotify or Apple Music and them only receiving a cut of the profits. To this end I've bought digitally basically all the music I listen to, with the only exceptions being very obscure albums that I can't buy anymore in my region. This is one of the main pillars of what I feel it means to be a moral consumer: to own what you use. Nothing more, nothing less, just a paying customer.
 
-![Beautiful disk!!!!](../media/qownnotes-media-pzAhwW.png)
+![Beautiful disk!!!!](media/qownnotes-media-pzAhwW.png)
 
 This past month I decided to purchase Ado's Shinzou live Blu-ray. You can probably tell by the rest of the site and blog content that I'm a huge fan of hers, and I've always gone to her concerts and bought merchandise whenever I could, in addition to of course buying the albums. I got it from the official Ado Music Shop and it arrived within about a month. *Great! Now I can finally see her from the comfort of my own home!* 
 
@@ -30,7 +30,7 @@ But get this; you, the consumer, are also being cheated, groped and grossly viol
 
 #### The case of Mohammed Abdel Wahab
 
-![Mohammed Abdel Wahab](../media/qownnotes-media-yoiQWF.png)
+![Mohammed Abdel Wahab](media/qownnotes-media-yoiQWF.png)
 
 
 For as much as I shit on streaming, you're basically forced to use it because lots of music just isn't available to purchase these days and is streaming only- that or it's not sold in your particular jurisdiction. This was the case with Mohammed Abdel Wahab's music. Two songs of his I really loved because of the lyrical subject matter and the general composition; El Watan El Akbar and El Geal El Saed, both of which are pan-Arabist in nature. Please do note that both of these songs are perfectly PG and have nothing jingoistic about them. 
@@ -38,9 +38,9 @@ For as much as I shit on streaming, you're basically forced to use it because lo
 Well one day I awoke to find that both of these songs were now gone from my playlist, but not in the sense that the songs were grayed out and no longer playable like how it usually happens. No: they were deliberately replaced with different songs by the platform to avoid suspicion. Don your tinfoil hats, my friends....
 
 These are the songs that they were replaced with, respectively: 
-![qownnotes-media-OBLEMw](../media/qownnotes-media-OBLEMw.png)
+![qownnotes-media-OBLEMw](media/qownnotes-media-OBLEMw.png)
 
-![qownnotes-media-ssHLeG](../media/qownnotes-media-ssHLeG.png)
+![qownnotes-media-ssHLeG](media/qownnotes-media-ssHLeG.png)
 
 How do I know they were replaced? Because the previous hotlinks to both songs just go here now. Literally the URL is the same and just got transferred to these songs. Why, you may ask?
 
@@ -59,7 +59,7 @@ Previously, when discovering something new, it could have been either by word of
 
 *People scrolling these brain destroying factory platforms do not have the will to turn on their brains to what they're hearing. If it sounds good, it's good... have you seen what the fuck passes for "music" or "literature" on these platforms? I don't care how much you like smut or how much you like the "best friend's brother" archetype or whatever the FUCK "tropes" you think makes a novel good, the fundamental fact is that these are mass-produced to cater to the audience and have zero artistic substance whatsoever. There, I said it. Fucking cry about it. Colleen Hoover and Jenny Han or what have you just turn out slop so that teens can stay at home and scroll TikTok or fucking RedNote and get the simulated joys of going out into the world instead of actually talking to people. Yes, I've read "The Summer I Turned Pretty" and "It Ends With Us"... they both are absolute nothing burgers in every sense of the word.* 
 
-![Hell.](../media/qownnotes-media-zOvGbC.png)
+![Hell.](media/qownnotes-media-zOvGbC.png)
 
 
 *Whatever happened to crack fanfiction? People are too scared to go on AO3 for their degenerate content, so you have to get a YA novel with a cute illustrated cover so that you can appear civilized while reading the same shit but soulless and corporate and executed even worse? You have NEVER read something good in your life so you're attempting to portray yourself as more intellectually open than you are but secretly close yourself off from any and all criticism and actually intellectually stimulating content because your brain is mentally stuck in the third grade. Nice work.*
