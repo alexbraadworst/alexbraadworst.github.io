@@ -6,7 +6,7 @@
 
 /* Must start with ".site-box". Change how your website will appear on main nekoweb site: https://lune.dimden.dev/405a44b7e5.png */
 .site-box {
-    background-image: url(https://harakiri.moe/img/sitebox.png);
+    background-image: url(https://zlxkks.nekoweb.org/img/sitebox.png);
     background-repeat: no-repeat;
     color: #F0EDF4;
     font-size: 12px;
@@ -41,8 +41,6 @@
 /* Style for your post box (must start with ".post-box") */
 .post-box {
     background-color: #302A35;
-    background-image: url(https://harakiri.moe/img/sitebox.webp);
-    background-size: cover;
     color: #F0EDF4;  
     text-shadow: 0 0 2px #F0EDF4;
     border: 14px solid #CAB8DD;
