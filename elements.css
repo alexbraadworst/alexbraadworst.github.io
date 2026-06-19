@@ -1,0 +1,60 @@
+/*
+    Don't use this file to edit your site style! Create a different CSS file for that.
+    This file defines how custom elements (like sitebox) will look like.
+    Setting CSS that breaks main nekoweb site on purpose is prohibited and may result in ban and site deletion!
+*/
+
+/* Must start with ".site-box". Change how your website will appear on main nekoweb site: https://lune.dimden.dev/405a44b7e5.png */
+.site-box {
+    background-image: url(https://harakiri.moe/img/sitebox.png);
+    background-repeat: no-repeat;
+    color: #F0EDF4;
+    font-size: 12px;
+    border: 4px solid #CAB8DD;
+    box-shadow: 0 10px 30px var(--shadow-color), inset 0 1px 0 rgba(255,255,255,0.2);
+    background-color: #1b1521;
+}
+.site-box:hover {
+    transform: scale(1.04);
+}
+.site-box .sitefeature {
+    display: none;
+}
+.site-box > a > p {
+    color: #F0EDF4;
+    font-family: monospace;
+    font-size: 14px !important;
+    text-shadow: 0.3px 0 #F0EDF4, -0.3px 0 #F0EDF4;
+    margin-top: 4px;
+    margin-left: 8px;
+    float: left !important;
+}
+.site-box > a > span {
+    display: none !important;
+}
+.site-box .follow {
+    color: #CAB8DD !important;
+    font-family: monospace;
+    margin-left: -5px;
+}
+
+/* Style for your post box (must start with ".post-box") */
+.post-box {
+    background-color: #302A35;
+    background-image: url(https://harakiri.moe/img/sitebox.webp);
+    background-size: cover;
+    color: #F0EDF4;  
+    text-shadow: 0 0 2px #F0EDF4;
+    border: 14px solid #CAB8DD;
+    padding: 15px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.post-box .post-title {
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
