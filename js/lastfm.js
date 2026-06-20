@@ -6,30 +6,19 @@ const getTrack = async () => {
     try {
         const request = await fetch(BASE_URL);
         const json = await request.json();
-        const container = document.getElementById("lastfm");
 
-        if (!container) return; 
+        let isPlaying = json.track['@attr']?.nowplaying === "true";
 
-        let isPlaying = json.track['@attr']?.nowplaying || false;
-
-        if (!isPlaying) {
-            container.innerHTML = `<p class="not-playing">Not listening to anything right now.</p>`;
-            return;
-        }
-
-        container.innerHTML = `
-            <img src="${json.track.image[1]['#text']}" alt="Album cover">
-            <div id="trackInfo">
-                <h3 id="trackName">${json.track.name}</h3>
-                <p id="artistName">${json.track.artist['#text']}</p>
-            </div>
+        document.getElementById("lastfm").innerHTML = `
+        <img src="${json.track.image[2]['#text']}" alt="Album Art">
+        <div id="trackInfo">
+            <h4 id="trackName">${json.track.name}</h4>
+            <p id="artistName">${json.track.artist['#text']}</p>
+        </div>
         `;
     } catch (error) {
         console.error("Error fetching Last.fm data:", error);
     }
 };
 
-window.addEventListener('DOMContentLoaded', () => {
-    getTrack();
-    setInterval(getTrack, 10000);
-});
+getTrack();

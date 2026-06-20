@@ -159,6 +159,53 @@ footer {
     text-align: left;
 }
 
+/* widgets */
+
+.widget {
+    background: #25202c;
+    padding: 0.9rem;
+    border-radius: 0.75rem;
+    border: 1px solid #5d4f6a; 
+    margin: 0.5rem;
+}
+
+#lastfm {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-align: left;
+}
+#lastfm img {
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    border-radius: 0.25rem;
+    flex-shrink: 0;
+}
+
+#trackInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.widget h4, p, .status-label {
+    margin: 0;
+    line-height: 1.2;
+}
+
+#artistName {
+    font-size: 1rem;
+    color: #bfaecf;
+}
+
+.status-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.0625rem;
+    color: #a893be;
+}
+
 #tab1:checked ~ #content1,
 #tab2:checked ~ #content2,
 #tab3:checked ~ #content3,
@@ -209,4 +256,3 @@ footer {
         max-width: 50%;
     }
 }
-

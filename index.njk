@@ -13,9 +13,6 @@ og_description: i just need a second
         .main {
             justify-content: center;
         }
-        #lastfm {
-            display: inline-block
-        }
     </style>
 {% endblock %}
 
@@ -34,7 +31,6 @@ og_description: i just need a second
             <div class="pure-u-1 pure-u-md-1-2 hero-text">
                 <h3 style="width: 100%; margin:0%;">platforms</h3>
                 <ul>
-                    <li>-> <b><em><a href="https://nekoweb.org/follow/harakiri.moe">follow me on nekoweb!</a></em></b></li>
                     <li><b>e-mail (<a href="/pgp-jz.txt">pgp</a>):</b> <a href="">jz [at] shironeko [dot] dev</a></li>
                     <li><b>discord:</b> <a href="https://discord.com/users/703262482466078794">@nyaaaanpasu</a></li>
                     <li><b>github:</b> <a href="https://github.com/alexbraadworst">@alexbraadworst</a></li>
@@ -48,10 +44,28 @@ og_description: i just need a second
                     <li><b>go for it, prussia!:</b> <a href="https://ehapgame.exusiai.link/game">ehapgame.exusiai.link</a></li>
                     <li><b>dicereum:</b> <a href="https://dicereum.xyz">dicereum.xyz</a></li>
                     <li><b>guestbook:</b> <a href="https://shironeko.atabook.org/">shironeko.atabook.org</a></li>
-                    <div id="lastfm"></div>
+                    <li></li>
                 </ul>
             </div>
+            
         </div>
+    </div>
+    <div class="container">
+        <div class="pure-g hero">
+            <div class="pure-u-1 pure-u-md-1-2 hero-text" style="text-align: center;">
+                <h3 style="margin-top: 0rem">last.fm</h3>
+                <div id="lastfm" class="widget"></div>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-2 hero-text" style="text-align: center;">
+                <h3 style="margin-top: 0rem">site info </h3>
+                <div class="widget" style="text-align: left;">
+                    <p><b>followers (<a href="https://nekoweb.org/follow/harakiri.moe">follow</a>):</b> <!--# followers --></p>
+                    <p><b>views:</b> <!--# views --></p>
+                    <p><b>updates:</b> <!--# updates --></p>
+                </div>
+            </div>
+        </div>
+            
     </div>
 </div>
 
