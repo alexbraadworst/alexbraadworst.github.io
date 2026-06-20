@@ -13,7 +13,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("fonts");
   eleventyConfig.addPassthroughCopy("blog");
   eleventyConfig.addPassthroughCopy("js");
-  eleventyConfig.addPassthroughCopy("*.{css,html,txt}");
+  eleventyConfig.addPassthroughCopy("*.{css,json,html,txt}");
   eleventyConfig.on("eleventy.after", async ({ dir }) => {
     if (process.env.ELEVENTY_RUN_MODE !== "build") return;
 

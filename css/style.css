@@ -5,16 +5,6 @@
     --header: #CAB8DD;
 }
 
-@font-face {
-    font-family: "kurrent";
-    src: url(/fonts/Kurrent.ttf);
-}
-
-@font-face {
-    font-family: "fraktur";
-    src: url(/fonts/Strassburg\ Fraktur.ttf);
-}
-
 body {
     display: flex;
     flex-direction: column;
@@ -53,8 +43,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    margin-left: 5rem; 
-    margin-right: 5rem;
+    margin: 0.5rem 1rem;
     transition: transform 0.2s ease, color 0.2s ease;
     display: inline-block;
 }
@@ -70,9 +59,6 @@ footer {
     text-align: center;
     image-rendering: pixelated;
 }
-
-
-
 
 .container {
     display: flex;
@@ -175,6 +161,12 @@ footer {
     line-height: 1.2;
 }
 
+.widgetText {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
 #lastfm {
     display: flex;
     align-items: center;
@@ -189,12 +181,6 @@ footer {
     flex-shrink: 0;
 }
 
-#trackInfo {
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
-}
-
 #artistName {
     font-size: 1rem;
     color: #bfaecf;
@@ -207,10 +193,21 @@ footer {
     text-align: left;
 }
 
-#siteInfopoints {
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
+#status {
+    overflow: scroll;
+    max-height: min-content;
+}
+
+#statusHead {
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#statusText {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: small;
 }
 
 #tab1:checked ~ #content1,
@@ -233,15 +230,21 @@ footer {
     }
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width: 48rem) {
+    nav a {
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+    
     .main {
-        width: 50%;
+        width: 95%;
+        max-width: 60rem;
         margin-left: auto;
         margin-right: auto;
     }
     .badges {
         max-width: 60rem;
-        display: inline-block
+        display: inline-block;
     }
     .pure-g.hero {
         display: flex !important;
@@ -254,7 +257,11 @@ footer {
     }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width: 48rem) {
+    .pure-g {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
     
     .hero-text {
         margin: 1rem;
@@ -266,7 +273,7 @@ footer {
         text-align: center;
         order: 1;
     }
-    .hero-img img{
+    .hero-img img {
         display: block;
         margin: 0 auto;
         max-width: 50%;
