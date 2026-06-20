@@ -10,7 +10,7 @@ const getTrack = async () => {
         let isPlaying = json.track['@attr']?.nowplaying === "true";
 
         document.getElementById("lastfm").innerHTML = `
-        <img src="${json.track.image[1]['#text']}" alt="Album Art">
+        <img src="${json.track.image[3]['#text']}" alt="Album Art">
         <div id="trackInfo">
             <span class="status-label">${isPlaying ? "now playing" : "last played"}</span>
             <h4 id="trackName">${json.track.name}</h4>

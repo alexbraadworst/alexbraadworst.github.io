@@ -57,10 +57,13 @@ og_description: i just need a second
             </div>
             <div class="pure-u-1 pure-u-md-1-2 hero-text widget-col" style="text-align: center;">
                 <h3 style="margin-top: 0; margin-bottom: 0;">site info </h3>
-                <div class="widget" style="text-align: left;">
-                    <p><b>followers (<a href="https://nekoweb.org/follow/harakiri.moe">follow</a>):</b> <!--# followers --></p>
-                    <p><b>views:</b> <!--# views --></p>
-                    <p><b>updates:</b> <!--# updates --></p>
+                <div id="siteInfo" class="widget" style="text-align: left;">
+                    <div id="siteInfopoints">
+                        <p><b>local time:</b> <span id="localtime"></span></p>
+                        <p><b>followers (<a href="https://nekoweb.org/follow/harakiri.moe">follow</a>):</b> <!--# followers --></p>
+                        <p><b>views:</b> <!--# views --></p>
+                        <p><b>updates:</b> <!--# updates --></p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -69,4 +72,17 @@ og_description: i just need a second
 </div>
 
 <script src="/js/lastfm.js" defer></script>
+<script>
+  function showOwnerTime() {
+    const now = new Date();
+    document.getElementById('localtime').textContent = now.toLocaleTimeString('en-UK', {
+      timeZone: 'America/Chicago',
+      hour: '2-digit',
+      minute: '2-digit',
+      second: '2-digit'
+    });
+  }
+  showOwnerTime();
+  setInterval(showOwnerTime, 1000);
+</script>
 {% endblock %}

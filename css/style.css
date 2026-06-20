@@ -170,6 +170,11 @@ footer {
     flex: 1 0 auto;
 }
 
+.widget h3, .widget h4, .widget p {
+    margin: 0;
+    line-height: 1.2;
+}
+
 #lastfm {
     display: flex;
     align-items: center;
@@ -190,14 +195,22 @@ footer {
     gap: 0.25rem;
 }
 
-.widget h3, .widget h4, .widget p {
-    margin: 0;
-    line-height: 1.2;
-}
-
 #artistName {
     font-size: 1rem;
     color: #bfaecf;
+}
+
+#siteInfo {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-align: left;
+}
+
+#siteInfopoints {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
 }
 
 #tab1:checked ~ #content1,
