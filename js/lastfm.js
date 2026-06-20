@@ -4,7 +4,7 @@ const BASE_URL = `https://lastfm-last-played.biancarosa.com.br/${USERNAME}/lates
 
 const getTrack = async () => {
     try {
-        const request = await fetch(BASE_URL);
+        const request = await fetch(`${BASE_URL}?t=${Date.now()}`);
         const json = await request.json();
 
         let isPlaying = json.track['@attr']?.nowplaying === "true";
