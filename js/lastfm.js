@@ -23,3 +23,5 @@ const getTrack = async () => {
 };
 
 getTrack();
+
+setInterval(getTrack, 60000);
