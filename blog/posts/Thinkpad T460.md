@@ -1,6 +1,6 @@
 ---
 title: Thinkpad T460.... for sale!?!??!?!?!
-date: 2026-06-20
+date: 2026-06-21
 summary: u heard that right im tryna sell a laptop on nekoweb (via ebay)
 ---
 ![qownnotes-media-WpUXwV](media/qownnotes-media-WpUXwV.png)
