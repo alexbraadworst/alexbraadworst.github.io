@@ -1,7 +1,7 @@
 ---
 title: Wing Sung 601; a long term review
 date: 2026-06-03
-description: How does a $20 Parker 51 clone hold up under daily heavy use for a few months? 
+summary: How does a $20 Parker 51 clone hold up under daily heavy use for a few months? 
 ---
 I've been using a Wing Sung 601 as a daily pen for school and notetaking for about 3 months now.  I decided that I'm going to go and write a more extensive review since the ones I've seen are coming from a place of, "fountain pen enthusiast" first rather than being a student first. Doodlebud for instance put out a great review, but he's primarily approaching the pen from that perspective with his main talking points about it specifically being a pen for school being the cap, ink capacity, and the price; these are important but not the sole bailiwick for the Wing Sung 601. I am a stationery enthusiast, but I'm one on a budget and I'm using my pens as a means to an end (writing good notes) in a way that makes me happy, rather than an end in itself.
 
