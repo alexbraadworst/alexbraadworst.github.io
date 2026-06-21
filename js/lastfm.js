@@ -1,4 +1,5 @@
 // this script is under the MIT license (https://max.nekoweb.org/resources/license.txt)
+// modified by https://harakiri.moe
 const USERNAME = "zlxkks";
 const BASE_URL = `https://lastfm-last-played.biancarosa.com.br/${USERNAME}/latest-song`;
 
