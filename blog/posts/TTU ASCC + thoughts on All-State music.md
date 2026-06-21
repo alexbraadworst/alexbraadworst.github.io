@@ -1,8 +1,8 @@
 ---
 
 title: 2026 TTU ASCC and my thoughts on the All-State music
-
 date: 2026-06-19
+description: A brief intro to TTU ASCC and the TMEA All-State Choir music for 2026-27
 
 ---
 I recently came home from my second year at Texas Tech All-State Choir Camp! All-State camps are always insanely useful to me since it's a great opportunity to get a head start on the music... auditions start just a few weeks after the school year starts. I always go to Tech because my choir director is one of the organizers and a lot of my friends go too. If I were to describe the atmosphere at TTU ASCC it'd be "Work hard, play harder." The rehearsals are all a real doozy and fast paced, and the activities in the evening are just as exhausting. If you're into that (I'm great with it as long as it's just a week a year...) then TTU could be a good option for camps! I've been to UNT and it's not as fun in my experience.

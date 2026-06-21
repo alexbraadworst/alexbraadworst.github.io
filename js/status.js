@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
           document.getElementById('statusText').textContent = `${data.status}`;
         })
         .catch(error => {
-          console.error(error); // Logs the actual error to your browser console
+          console.error(error);
           const statusTextEl = document.getElementById('statusText');
           if (statusTextEl) statusTextEl.textContent = "whoever wrote ts is a real idiot haha";
         });

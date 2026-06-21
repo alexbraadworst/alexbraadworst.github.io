@@ -7,21 +7,22 @@
 /* Must start with ".site-box". Change how your website will appear on main nekoweb site: https://lune.dimden.dev/405a44b7e5.png */
 .site-box {
     background-image: url(//seppuku.nekoweb.org/img/sitebox.png);
+    background-size: cover;
     background-repeat: no-repeat;
-    color: #F0EDF4;
-    font-size: 12px;
-    border: 4px solid #CAB8DD;
+    border: 4px solid white;
     box-shadow: 0 10px 30px var(--shadow-color), inset 0 1px 0 rgba(255,255,255,0.2);
-    background-color: #1b1521;
 }
-.site-box:hover {
+
+.site-box:hover, .post-box:hover {
     transform: scale(1.04);
 }
 .site-box .sitefeature {
-    display: none;
+    opacity: 0;
+    width: 100%;
 }
 .site-box > a > p {
     color: #F0EDF4;
+    background-color: rgba(0,0,0,0.7);
     font-family: monospace;
     font-size: 14px !important;
     text-shadow: 0.3px 0 #F0EDF4, -0.3px 0 #F0EDF4;
@@ -40,19 +41,36 @@
 
 /* Style for your post box (must start with ".post-box") */
 .post-box {
-    background-color: #302A35;
+    background-image: url(//seppuku.nekoweb.org/img/postbox.png);
+    background-size: cover;
     color: #F0EDF4;  
     text-shadow: 0 0 2px #F0EDF4;
-    border: 14px solid #CAB8DD;
+    border: 4px solid #fff;
+    outline: 2px solid #000;
+    outline-offset: -2px;
     padding: 15px;
     font-weight: normal;
-    text-align: center;
 }
 
 .post-box .post-title {
+    background-color: rgba(0, 0, 0, 0.8);
     font-family: monospace;
     font-size: 18px;
     font-weight: bold;
     margin-top: 10px;
     margin-bottom: 0px;
+    width: fit-content;
+    
+}
+
+.post-box .post-description {
+    background-color: rgba(0, 0, 0, 0.8);
+    font-family: monospace;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    width: fit-content;
+}
+.post-box .post-author,.post-dot,.post-date{
+    background-color: rgba(0, 0, 0, 0.8);
 }
