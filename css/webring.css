@@ -1,0 +1,39 @@
+h1, h2, h3 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+.webring-members {
+    hyphens: auto;
+    text-align: center;
+    width: 100%;
+}
+
+textarea:focus {
+    outline: none;
+    border-color: initial;
+    box-shadow: none;
+}
+
+.webring-members tr td:first-child {
+    text-align: center;
+    width: 8rem;
+    font-size: 1.2rem;
+}
+
+tr:nth-child(2) img {
+    width: 88px;
+}
+
+tr:nth-child(3) img {
+    width: 4rem;
+}
+
+
+.webring-members td {
+    background-color: rgba(233, 206, 255, 0.29);
+    padding: 0.25rem;
+}
+
+.webring-members img {transition:0.2s}
+
+.webring-members img:hover {scale:110%}
