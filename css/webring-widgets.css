@@ -23,7 +23,7 @@
 
 .cm-webring-links a {
     color: #fff;
-    text-decoration: underline;
+    text-decoration: none;
 }
 .cm-webring-links a:hover {
     color: #ddd;

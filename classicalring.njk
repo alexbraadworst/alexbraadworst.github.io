@@ -1,0 +1,119 @@
+---
+layout: base.njk
+title: The Classical Music Webring
+description: A webring for personal websites of classical music lovers
+og_description: A webring for personal websites of classical music lovers
+---
+
+{% block head %}
+    <link rel="stylesheet" href="/css/webring.css">
+{% endblock %}
+
+{% block content %}
+{% set widgetCode1 %}
+<link rel="stylesheet" href="https://harakiri.moe/css/webring-widgets.css">
+
+<div class="cm-webring-box">
+    <span class="cm-webring-links">
+        <a href="https://harakiri.moe/classicalring">the classical music webring</a><br />
+        <a href="https://harakiri.moe/classicalring?action=previous">prev</a>
+        <a href="https://harakiri.moe/classicalring?action=random">random</a>
+        <a href="https://harakiri.moe/classicalring?action=next">next</a>
+    </span>
+</div>
+{% endset %}
+
+{% set widgetCode2%}
+<span>
+    <a href="https://harakiri.moe/classicalring">the classical music webring</a><br />
+    <a href="https://harakiri.moe/classicalring?action=previous">prev</a>
+    <a href="https://harakiri.moe/classicalring?action=random">random</a>
+    <a href="https://harakiri.moe/classicalring?action=next">next</a>
+</span>
+{% endset %}
+
+{% set joinPrompt %}
+1. Site name:
+
+2. Site's URL: 
+
+3. Site description (optional, highly encouraged): 
+
+4. Site button URL (optional, highly encouraged):
+
+5. Favorite composer(s) (optional, highly encouraged):
+{% endset %}
+
+
+<div class="main">
+    <div class="container">
+        <div class="pure-g hero">
+            <div class="pure-u-1" style="text-align: center;">
+                    <h1><em>The Classical Music Webring</em></h1>
+                    <p>A webring for listeners of classical music!</p>
+                    <a href="#members">members</a>
+            </div>
+
+            <div class="pure-u-1 pure-u-md-2-3" style="text-align: center;">
+                <h2>Rules</h2>
+                <p>
+                    I'm a pretty chill person, so if there's a minor issue then I'll let you know. 
+                    I always assume good faith, but if it's really egregious then I'll kick you out...
+                </p>
+                <ol style="text-align: left;">
+                    <li><b>Enjoy classical music:</b> Anyone who enjoys classical music from the Middle Ages to the present is invited to join!</li>
+                    <li><b>Have a website:</b> You must be able to edit the site's HTML to add in the widget (free-tier Carrd, Strawpage, etc, won't work). No content related to classical music is required, but you do need a reasonable amount of content on the site (ie. not completely blank).</li>
+                    <li><b>Be civil:</b> Don't post or host hateful, illegal, or wildly inappropriate content on your website.</li>
+                    <li><b>Don't be an elitist:</b> The general negative perception of classical music is bad enough. Please don't post things that could discourage new listeners of classical music, and don't engage in classism.</li>
+                    <li><b>Add the webring widget:</b> Place the widget somewhere visible (index or a links/webring page is perfect). Ideally, do this before you apply to join. If it's still not there in a week or so, I'll remove you.</li>
+                </ol>
+            </div>
+
+            <div class="pure-u-1 pure-u-md-1-3" style="text-align: center;">
+                    <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+                        <h2>Widget</h2>
+                        {{ widgetCode1 | safe }}
+                        <textarea readonly onclick="this.select()" style="font-family: monospace;">{{ widgetCode1 | trim }}</textarea>
+                        {{ widgetCode2 | safe }}
+                        <textarea readonly onclick="this.select()" style="font-family: monospace;">{{ widgetCode2 | trim }}</textarea>
+                    </div>
+            </div>
+            <div class="pure-u-1" style="text-align: center;">
+                <h2>Joining</h2>
+                <p>
+                    To join the webring, email me at zlxkks [at] posteo [dot] com, or contact me via one of the platforms listed on the <a href="/">index page</a>, answering these questions:
+                </p>
+                <textarea readonly onclick="this.select()" style="height: 15em; width: 100%; max-width: 30em; font-family: monospace;">{{ joinPrompt }}</textarea>
+                <p>
+                    I'll get back to you as soon as possible =3=
+                </p>
+                <p>powered by <a href="https://petrapixel.neocities.org/coding/webringu">webringu</a></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="text-align: center;">
+        <h2 id="members">members (<span id="webringucount"></span>)</h2>
+        <div id="webringulist"></div>
+        <noscript>Please enable JavaScript to view the member list.</noscript>
+    </div>
+    
+</div>
+
+
+
+<script defer>
+  // List of members
+  const members = [
+    {
+        url: "https://harakiri.moe",
+        title: "juniper",
+        description: "creator of the webring! a personal blog with product reviews including stationery and video game reviews, study materials for ap classes, as well as other original content. favorite composer: gustav holst ",
+        buttonUrl: "https://harakiri.moe/img/button.png",
+    }
+  ];
+</script>
+
+<script src="https://petrapixel.neocities.org/assets/js/webringu.js?nocache=1"></script>
+
+{% endblock %}
