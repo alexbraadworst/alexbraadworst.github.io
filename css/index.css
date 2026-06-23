@@ -1,0 +1,63 @@
+/* widgets */
+
+.widget {
+    background: #25202c;
+    padding: 0.9rem;
+    border-radius: 0.75rem;
+    border: 1px solid #5d4f6a; 
+    margin: 0.5rem;
+    flex: 1 0 auto;
+}
+
+.widget h3, .widget h4, .widget p {
+    margin: 0;
+    line-height: 1.2;
+}
+
+.widgetText {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+#lastfm {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-align: left;
+}
+#lastfm img {
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    border-radius: 0.25rem;
+    flex-shrink: 0;
+}
+
+#artistName {
+    font-size: 1rem;
+    color: #bfaecf;
+}
+
+#siteInfo {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-align: left;
+}
+
+#status {
+    overflow: scroll;
+    max-height: min-content;
+}
+
+#statusHead {
+    display: block;
+    text-align: center;
+}
+
+#statusText {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: small;
+}
