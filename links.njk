@@ -16,13 +16,6 @@ og_description: outbound links (buttons, webrings, etc)
         width: 100% !important;
         margin: 1.5rem 0 !important;
     }
-
-    #webring-grid > div, 
-    #webring-grid > img, 
-    #webring-grid > journal-ring {
-        display: inline-block;
-        vertical-align: middle;
-    }
 </style>
 {% endblock %}
 {% block content %}
@@ -109,38 +102,56 @@ og_description: outbound links (buttons, webrings, etc)
             <h2>webrings</h2>
 
             <div id="webring-grid">
-                <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-                    <link rel="stylesheet" href="https://harakiri.moe/css/webring-widgets.css">
+                <link rel="stylesheet" href="https://harakiri.moe/css/webring-widgets.css">
 
-                    <div class="cm-webring-box">
-                        <span class="cm-webring-links">
-                            <a href="https://harakiri.moe/classicalring">the classical music webring</a><br />
-                            <a href="https://harakiri.moe/classicalring?action=previous">prev</a>
-                            <a href="https://harakiri.moe/classicalring?action=random">random</a>
-                            <a href="https://harakiri.moe/classicalring?action=next">next</a>
-                        </span>
-                    </div>
-                
-                    <div style="
-                    background-image:
-                    linear-gradient(to top,#000,#00000000),
-                    url('/img/yuri.png');
-                    background-size:cover;
-                    display:grid;
-                    height:210px;
-                    width:260px;
-                    border-width: 1rem;
-                    border-radius: 5%;
-                    color:#fff;
-                    font-family:'Times New Roman';
-                    font-size:18px">
-                    <span style="display:inline-block;align-self:end;justify-self:center;text-align:center">
-                        <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/webring.htm#NUG0">⇐</a> <!-- REPLACE "{IDENTIFIER}" WITH /YOUR/ ID-->
-                        <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/yuriwebring">YURI WEBRING</a>
-                        <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/webring.htm#NUG1">⇒</a> <!-- REPLACE "{IDENTIFIER}" WITH /YOUR/ ID-->
+                <div class="cm-webring-box">
+                    <span class="cm-webring-links">
+                        <a href="https://harakiri.moe/classicalring">the classical music webring</a><br />
+                        <a href="https://harakiri.moe/classicalring?action=previous">prev</a>
+                        <a href="https://harakiri.moe/classicalring?action=random">random</a>
+                        <a href="https://harakiri.moe/classicalring?action=next">next</a>
                     </span>
-                    </div>
                 </div>
+            
+                <div style="
+                background-image:
+                linear-gradient(to top,#000,#00000000),
+                url('/img/yuri.png');
+                background-size:cover;
+                display:grid;
+                height:150px;
+                width:220px;
+                border-width: 1rem;
+                border-radius: 5%;
+                color:#fff;
+                font-family:'Times New Roman';
+                font-size:18px">
+                <span style="display:inline-block;align-self:end;justify-self:center;text-align:center">
+                    <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/webring.htm#NUG0">⇐</a> <!-- REPLACE "{IDENTIFIER}" WITH /YOUR/ ID-->
+                    <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/yuriwebring">YURI WEBRING</a>
+                    <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/webring.htm#NUG1">⇒</a> <!-- REPLACE "{IDENTIFIER}" WITH /YOUR/ ID-->
+                </span>
+                </div>
+
+                <div id="sapphicring1">
+                    <a href="https://sunnishinez.neocities.org/webring/sapphicring"><img
+                        src="https://sunnishinez.neocities.org/webring/sapphic/swindex.png" /></a><br />
+                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=previous"><img
+                        src="https://sunnishinez.neocities.org/webring/sapphic/swleft.png" /></a>
+                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=random">random</a>
+                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=next"><img
+                        src="https://sunnishinez.neocities.org/webring/sapphic/swright.png" /></a>
+                </div>
+
+                <!-- CHRONOS WEBRING START -->
+                <div id="chronos">
+                <script src="https://hal.nekoweb.org/chronos/onionring-variables.js"></script>
+                <script src="https://hal.nekoweb.org/chronos/onionring-widget.js"></script>
+                </div>
+                <!-- CHRONOS WEBRING END -->
+                 
+                <journal-ring icon="lavender"></journal-ring><script async src="https://cdn.jsdelivr.net/gh/js044/nenrikido@main/static/js/misc/journalring.js"></script> 
+            
 
                 <map name="w95widget">
                 <area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="0,0,308,22" alt="no ai webring" title="no ai webring">
@@ -175,28 +186,9 @@ og_description: outbound links (buttons, webrings, etc)
                     <script type="text/javascript" src="https://bishoujopalace.neocities.org/WebRing/onionring/onionring-variables.js"></script>
                     <script type="text/javascript" src="https://bishoujopalace.neocities.org/WebRing/onionring/onionring-widget.js"></script>
                     <script>document.getElementById('Icon').src="/img/yuki.gif"</script>
-                </div>
-
-                <!-- CHRONOS WEBRING START -->
-                <div id="chronos">
-                <script src="https://hal.nekoweb.org/chronos/onionring-variables.js"></script>
-                <script src="https://hal.nekoweb.org/chronos/onionring-widget.js"></script>
-                </div>
-                <!-- CHRONOS WEBRING END -->
-
-                <script defer src="https://softmachine.dev/webring/linuxring/ring.js" data-icon="arch"></script>
+                </div>  
                 
-                <div id="sapphicring1">
-                    <a href="https://sunnishinez.neocities.org/webring/sapphicring"><img
-                        src="https://sunnishinez.neocities.org/webring/sapphic/swindex.png" /></a><br />
-                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=previous"><img
-                        src="https://sunnishinez.neocities.org/webring/sapphic/swleft.png" /></a>
-                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=random">random</a>
-                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=next"><img
-                        src="https://sunnishinez.neocities.org/webring/sapphic/swright.png" /></a>
-                </div>
 
-                <journal-ring icon="lavender"></journal-ring><script async src="https://cdn.jsdelivr.net/gh/js044/nenrikido@main/static/js/misc/journalring.js"></script> 
             </div>
 
             <details style="margin-top: 1rem;">
@@ -205,6 +197,8 @@ og_description: outbound links (buttons, webrings, etc)
                 </summary>
                 
                 <div style="margin-top: 10px; padding: 10px;">
+
+                    <script defer src="https://softmachine.dev/webring/linuxring/ring.js" data-icon="arch"></script>
 
                     <!--resize widget by changing the zoom percentage here-->
                     
