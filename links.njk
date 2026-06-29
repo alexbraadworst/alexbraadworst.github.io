@@ -4,10 +4,30 @@ title: links
 description: outbound links (buttons, webrings, etc)
 og_description: outbound links (buttons, webrings, etc)
 ---
+{% block head %}
+<style>
+    #webring-grid {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        align-items: center !important;
+        gap: 1.5rem !important;
+        width: 100% !important;
+        margin: 1.5rem 0 !important;
+    }
 
+    #webring-grid > div, 
+    #webring-grid > img, 
+    #webring-grid > journal-ring {
+        display: inline-block;
+        vertical-align: middle;
+    }
+</style>
+{% endblock %}
 {% block content %}
 <div class="main pure-g hero">
-    <div class="pure-u-md-1-2">
+    <div class="pure-u-md-2-5">
         <div style="text-align: center; display: block;" class="hero-text container">
             <h2>buttons</h2>
             <p>some buttons are displayed at the bottom, but most are here, I just don't wanna have my footer be cluttered lmao =3=</p>
@@ -84,86 +104,99 @@ og_description: outbound links (buttons, webrings, etc)
                 <a href="https://fans.thislove.nu/dignity/"><img src="https://fans.thislove.nu/dignity/codes/100x50_1.gif"></a>
         </div>
     </div>
-    <div class="pure-u-md-1-2">
+    <div class="pure-u-md-3-5">
         <div style="text-align: center; display: block;" class="hero-text container">
             <h2>webrings</h2>
-            
-            <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-                <link rel="stylesheet" href="https://harakiri.moe/css/webring-widgets.css">
 
-                <div class="cm-webring-box">
-                    <span class="cm-webring-links">
-                        <a href="https://harakiri.moe/classicalring">the classical music webring</a><br />
-                        <a href="https://harakiri.moe/classicalring?action=previous">prev</a>
-                        <a href="https://harakiri.moe/classicalring?action=random">random</a>
-                        <a href="https://harakiri.moe/classicalring?action=next">next</a>
+            <div id="webring-grid">
+                <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+                    <link rel="stylesheet" href="https://harakiri.moe/css/webring-widgets.css">
+
+                    <div class="cm-webring-box">
+                        <span class="cm-webring-links">
+                            <a href="https://harakiri.moe/classicalring">the classical music webring</a><br />
+                            <a href="https://harakiri.moe/classicalring?action=previous">prev</a>
+                            <a href="https://harakiri.moe/classicalring?action=random">random</a>
+                            <a href="https://harakiri.moe/classicalring?action=next">next</a>
+                        </span>
+                    </div>
+                
+                    <div style="
+                    background-image:
+                    linear-gradient(to top,#000,#00000000),
+                    url('/img/yuri.png');
+                    background-size:cover;
+                    display:grid;
+                    height:210px;
+                    width:260px;
+                    border-width: 1rem;
+                    border-radius: 5%;
+                    color:#fff;
+                    font-family:'Times New Roman';
+                    font-size:18px">
+                    <span style="display:inline-block;align-self:end;justify-self:center;text-align:center">
+                        <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/webring.htm#NUG0">⇐</a> <!-- REPLACE "{IDENTIFIER}" WITH /YOUR/ ID-->
+                        <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/yuriwebring">YURI WEBRING</a>
+                        <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/webring.htm#NUG1">⇒</a> <!-- REPLACE "{IDENTIFIER}" WITH /YOUR/ ID-->
                     </span>
+                    </div>
                 </div>
-            
-                <div style="
-                background-image:
-                linear-gradient(to top,#000,#00000000),
-                url('/img/yuri.png');
-                background-size:cover;
-                display:grid;
-                height:210px;
-                width:260px;
-                border-width: 1rem;
-                border-radius: 5%;
-                color:#fff;
-                font-family:'Times New Roman';
-                font-size:18px">
-                <span style="display:inline-block;align-self:end;justify-self:center;text-align:center">
-                    <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/webring.htm#NUG0">⇐</a> <!-- REPLACE "{IDENTIFIER}" WITH /YOUR/ ID-->
-                    <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/yuriwebring">YURI WEBRING</a>
-                    <a style="text-decoration:none;color:#fff" href="https://www.virtuagirl.net/webring.htm#NUG1">⇒</a> <!-- REPLACE "{IDENTIFIER}" WITH /YOUR/ ID-->
-                </span>
+
+                <map name="w95widget">
+                <area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="0,0,308,22" alt="no ai webring" title="no ai webring">
+                <area href="https://baccyflap.com/noai/?prv&s=nug" target="_top" shape="rect" coords="56,36,130,58" alt="previous" title="previous">
+                <area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="137,36,211,58" alt="random" title="random">
+                <area href="https://baccyflap.com/noai/?nxt&s=nug" target="_top" shape="rect" coords="218,36,292,58" alt="next" title="next">
+                </map>
+                <img usemap="#w95widget" src="https://baccyflap.com/noai/w95widget.gif" alt="a gray Windows 95 style dialog box titled 'The No AI Webring' with a little icon showing a computer chip in a rubbish bin. beside it are three clickable buttons, labeled Previous, Random... and Next"> 
+                
+                
+                <div id="IDOLRING_WIDGET" style="zoom: 100%">
+                    <link rel="stylesheet" href="https://idolring.nekoweb.org/idolring.css" />
+                    <script src="https://idolring.nekoweb.org/scripts/black.js"></script>
+                    <script>
+                        document.getElementById("idol_description").innerHTML =
+                            "this user stans <b>Ado</b>";
+                    </script>
+                    <script>
+                        document.getElementById("oshi").style.backgroundImage =
+                            "url(/img/ado.jpg)";
+                    </script>
                 </div>
-            </div>
 
-            <map name="w95widget">
-            <area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="0,0,308,22" alt="no ai webring" title="no ai webring">
-            <area href="https://baccyflap.com/noai/?prv&s=nug" target="_top" shape="rect" coords="56,36,130,58" alt="previous" title="previous">
-            <area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="137,36,211,58" alt="random" title="random">
-            <area href="https://baccyflap.com/noai/?nxt&s=nug" target="_top" shape="rect" coords="218,36,292,58" alt="next" title="next">
-            </map>
-            <img usemap="#w95widget" src="https://baccyflap.com/noai/w95widget.gif" alt="a gray Windows 95 style dialog box titled 'The No AI Webring' with a little icon showing a computer chip in a rubbish bin. beside it are three clickable buttons, labeled Previous, Random... and Next"> 
-            
-            
-            <div id="IDOLRING_WIDGET" style="zoom: 100%">
-                <link rel="stylesheet" href="https://idolring.nekoweb.org/idolring.css" />
-                <script src="https://idolring.nekoweb.org/scripts/black.js"></script>
-                <script>
-                    document.getElementById("idol_description").innerHTML =
-                        "this user stans <b>Ado</b>";
-                </script>
-                <script>
-                    document.getElementById("oshi").style.backgroundImage =
-                        "url(/img/ado.jpg)";
-                </script>
-            </div>
+                <!-- CDRING START -->
+                <div id='cdr'>
+                <script type="text/javascript" src="https://cdring.neocities.org/cdring/onionring-variables.js"></script>
+                <script type="text/javascript" src="https://cdring.neocities.org/cdring/onionring-widget.js"></script>
+                    </div>
+                <!-- CDRING END --> 
 
-            <!-- CDRING START -->
-            <div id='cdr'>
-            <script type="text/javascript" src="https://cdring.neocities.org/cdring/onionring-variables.js"></script>
-            <script type="text/javascript" src="https://cdring.neocities.org/cdring/onionring-widget.js"></script>
+                <div id='OtakuRing'>
+                    <script type="text/javascript" src="https://bishoujopalace.neocities.org/WebRing/onionring/onionring-variables.js"></script>
+                    <script type="text/javascript" src="https://bishoujopalace.neocities.org/WebRing/onionring/onionring-widget.js"></script>
+                    <script>document.getElementById('Icon').src="/img/yuki.gif"</script>
                 </div>
-            <!-- CDRING END --> 
 
-            <div id='OtakuRing'>
-                <script type="text/javascript" src="https://bishoujopalace.neocities.org/WebRing/onionring/onionring-variables.js"></script>
-                <script type="text/javascript" src="https://bishoujopalace.neocities.org/WebRing/onionring/onionring-widget.js"></script>
-                <script>document.getElementById('Icon').src="/img/yuki.gif"</script>
-            </div>
-            
-            <div id="sapphicring1">
-                <a href="https://sunnishinez.neocities.org/webring/sapphicring"><img
-                    src="https://sunnishinez.neocities.org/webring/sapphic/swindex.png" /></a><br />
-                <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=previous"><img
-                    src="https://sunnishinez.neocities.org/webring/sapphic/swleft.png" /></a>
-                <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=random">random</a>
-                <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=next"><img
-                    src="https://sunnishinez.neocities.org/webring/sapphic/swright.png" /></a>
+                <!-- CHRONOS WEBRING START -->
+                <div id="chronos">
+                <script src="https://hal.nekoweb.org/chronos/onionring-variables.js"></script>
+                <script src="https://hal.nekoweb.org/chronos/onionring-widget.js"></script>
+                </div>
+                <!-- CHRONOS WEBRING END -->
+
+                <script defer src="https://softmachine.dev/webring/linuxring/ring.js" data-icon="arch"></script>
+                
+                <div id="sapphicring1">
+                    <a href="https://sunnishinez.neocities.org/webring/sapphicring"><img
+                        src="https://sunnishinez.neocities.org/webring/sapphic/swindex.png" /></a><br />
+                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=previous"><img
+                        src="https://sunnishinez.neocities.org/webring/sapphic/swleft.png" /></a>
+                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=random">random</a>
+                    <a href="https://sunnishinez.neocities.org/webring/sapphicring?action=next"><img
+                        src="https://sunnishinez.neocities.org/webring/sapphic/swright.png" /></a>
+                </div>
+
+                <journal-ring icon="lavender"></journal-ring><script async src="https://cdn.jsdelivr.net/gh/js044/nenrikido@main/static/js/misc/journalring.js"></script> 
             </div>
 
             <details style="margin-top: 1rem;">
@@ -181,11 +214,7 @@ og_description: outbound links (buttons, webrings, etc)
                         <a href="https://bisexual-webring.neocities.org?action=next"><img src="https://bisexual-webring.neocities.org/images/widgets/widget1-right-arrow.png"></a>
                     </div>
 
-                    <journal-ring icon="lavender"></journal-ring><script async src="https://cdn.jsdelivr.net/gh/js044/nenrikido@main/static/js/misc/journalring.js"></script> 
-
                     <script src="https://jbc.lol/webrings/ssgring/pmoring.js"></script>
-
-                    <script defer src="https://the-disorganized-mind-palace.neocities.org/informantring/ring.js"></script>
                     
                     
                     
@@ -194,7 +223,6 @@ og_description: outbound links (buttons, webrings, etc)
                     <script type="text/javascript" src="https://jugproductions.neocities.org/onionring-widget.js"></script>
                     </div>
 
-                    <script defer src="https://softmachine.dev/webring/linuxring/ring.js" data-icon="arch"></script>
 
                     <div id='focusfirst-webring'>
                         <script type="text/javascript" src="https://www.beepbird.net/webring/onionring-variables.js"></script>
@@ -202,12 +230,6 @@ og_description: outbound links (buttons, webrings, etc)
                         <noscript><a href='https://www.beepbird.net/index.html'><img src="https://www.beepbird.net/webring/focusfirst.png" alt="Focus First Index"></a></noscript>
                     </div>
 
-                    <!-- CHRONOS WEBRING START -->
-                    <div id="chronos">
-                    <script src="https://hal.nekoweb.org/chronos/onionring-variables.js"></script>
-                    <script src="https://hal.nekoweb.org/chronos/onionring-widget.js"></script>
-                    </div>
-                    <!-- CHRONOS WEBRING END -->
                 </div>
             </details>
                     
