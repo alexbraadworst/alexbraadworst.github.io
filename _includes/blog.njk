@@ -16,7 +16,7 @@ og_description: read it idk
                 <h2 class="post-title">{{ title }}</h2>
                 {% if date %}
                 <div class="post-metadata">
-                    <span class="post-date">{{ date | readableDate }}</span>
+                    <span class="post-date">{{ page.date | readableDate }}</span>
                     <span class="post-reading-time">• {{ content | readingTime }}</span>
                 </div>
                 {% endif %}
