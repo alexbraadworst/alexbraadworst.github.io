@@ -3,7 +3,7 @@ title: New Brazil my ass
 date: Created
 summary: What a disgrace.
 ---
-Well, Brazil just got bounced from the World Cup in the round of 32 by Norway in a 2-1 game. Seeing the Cape Verde national team giving it their absolute all when they know it'll come to an end eventually, Vozinha giving such incredible leadership, and then seeing this absolutely spineless Brazilian squad dragging themselves around the pitch depresses the fuck out of me. Norway finished that game with 70% possession. The fuck are we doing?
+Well, Brazil just got bounced from the World Cup in the round of 16 by Norway in a 2-1 game. Seeing the Cape Verde national team giving it their absolute all when they know it'll come to an end eventually, Vozinha giving such incredible leadership, and then seeing this absolutely spineless Brazilian squad dragging themselves around the pitch depresses the fuck out of me. Norway finished that game with 70% possession. The fuck are we doing?
 
 The lack of drive was just completely and utterly ridiculous. I won't forget, at 75' it was 0-0 and the Brazilian team was just *watching* them pass the ball around. Every single time we actually got the ball and attacked there was a real opportunity and Brazil chose to play completely passively. They were just letting the Norwegians play, maybe they were waiting for a bad pass or something.
 
