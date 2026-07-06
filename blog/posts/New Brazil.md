@@ -1,7 +1,7 @@
 ---
 title: New Brazil my ass
 date: Created
-summary: What a dis
+summary: What a disgrace.
 ---
 Well, Brazil just got bounced from the World Cup in the round of 32 by Norway in a 2-1 game. Seeing the Cape Verde national team giving it their absolute all when they know it'll come to an end eventually, Vozinha giving such incredible leadership, and then seeing this absolutely spineless Brazilian squad dragging themselves around the pitch depresses the fuck out of me. Norway finished that game with 70% possession. The fuck are we doing?
 
