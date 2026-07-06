@@ -32,7 +32,7 @@ og_description: i just need a second
             <div class="pure-u-1 pure-u-md-1-2 hero-text">
                 <h3 style="width: 100%; margin:0%;">platforms</h3>
                 <ul>
-                    <li><b>e-mail (<a href="/pgp.txt">pgp</a>):</b> jz@harakiri.moe</li>
+                    <li><b>e-mail (<a href="/pgp.txt">pgp</a>):</b> <a href="mailto:jz@harakiri.moe">jz@harakiri.moe</a></li>
                     <li><b>matrix:</b> <a href="https://matrix.to/#/@harakirist:catgirl.cloud">@harakirist:catgirl.cloud</a></li>
                     <li><b>discord:</b> <a href="https://discord.com/users/703262482466078794">@nyaaaanpasu</a></li>
                     <li><b>github:</b> <a href="https://github.com/alexbraadworst">@alexbraadworst</a></li>
@@ -57,6 +57,15 @@ og_description: i just need a second
                 <div id="lastfm" class="widget"></div>
             </div>
             <div class="pure-u-1 pure-u-md-1-3 hero-text widget-col" style="text-align: center;">
+                <h3 style="margin-top: 0; margin-bottom: 0;">status</h3>
+                <div id="status" class="widget" style="text-align: left;">
+                    <p id="statusHead"></p>
+                    <div class="widgetText">
+                        <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=juniper" defer></script>
+                    </div>
+                </div>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-3 hero-text widget-col" style="text-align: center;">
                 <h3 style="margin-top: 0; margin-bottom: 0;">site info</h3>
                 <div id="siteInfo" class="widget" style="text-align: left;">
                     <div class="widgetText">
@@ -67,15 +76,6 @@ og_description: i just need a second
                     </div>
                 </div>
             </div>
-            <div class="pure-u-1 pure-u-md-1-3 hero-text widget-col" style="text-align: center;">
-                <h3 style="margin-top: 0; margin-bottom: 0;">status</h3>
-                <div id="status" class="widget" style="text-align: left;">
-                    <p id="statusHead"></p>
-                    <div class="widgetText">
-                        <p id="statusText"></p>
-                    </div>
-                </div>
-            </div>
         </div>
             
     </div>
@@ -83,5 +83,4 @@ og_description: i just need a second
 
 <script src="/js/lastfm.js" defer></script>
 <script src="/js/time.js" defer></script>
-<script src="/js/status.js" defer></script>
 {% endblock %}
