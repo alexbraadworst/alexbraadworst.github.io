@@ -1,18 +1,7 @@
 ---
-title: New Brazil my ass
-date: 2026-07-06
-summary: What a disgrace.
+title: Doughnut Metanoia review
+date: 2026-07-20 18:00:00 -05:00
+summary: A review of the messenger bag of the Actualise series.
 ---
-Well, Brazil just got bounced from the World Cup in the round of 16 by Norway in a 2-1 game. Seeing the Cape Verde national team giving it their absolute all when they know it'll come to an end eventually, Vozinha giving such incredible leadership, and then seeing this absolutely spineless Brazilian squad dragging themselves around the pitch depresses the fuck out of me. Norway finished that game with 70% possession. The fuck are we doing?
+So, today marks the second week I've had this Doughnut Metanoia messenger bag, and since then I've gone on two flights, a weeklong engineering camp, as well as quite a few study sessions and just general walks around my suburban hellhole city. I think this qualifies me at this point to review it! 
 
-The lack of drive was just completely and utterly ridiculous. I won't forget, at 75' it was 0-0 and the Brazilian team was just *watching* them pass the ball around. Every single time we actually got the ball and attacked there was a real opportunity and Brazil chose to play completely passively. They were just letting the Norwegians play, maybe they were waiting for a bad pass or something.
-
-As a Brazil fan who's always cheered for Brazil every single tournament every year since I can remember, I don't even know when I became a Brazil fan, I just have been... it's horrendous. When France loses possession they press immediately, when Argentina loses possession they press immediately, every other country's been playing pretty well. Where on earth is the passion???
-
-The team didn't do anything of substance until the last few minutes. What the hell, you can't let them get that close to the box! Norway faced no pressure at all. It seems like they got scared because Haaland is a breakout star of the tournament and forgot that the Norwegian team is average overall. They started running like crazy at the end... where was that drive for the rest of the game? Looked like Brazil was playing like they were up points. And Vini Jr. did absolutely nothing too, other than taking the ball to the byline and gifting the Norwegians goal-kicks. In fairness, he wasn't the one who screwed up that pass to Endrick, that was all Endrick's fault for missing that chance, but still. Incredible pass by Vini Jr. and an incredible miss by Endrick, what a disgrace. I didn't have much hope for this team with Vini Jr. and a bunch of street cones around him, but damn.
-
-Another thing; watching Neymar try to taunt the Norwegian goalkeeper was absolutely embarrassing. Oh my days bro, the man's getting eliminated and tries to taunt the keeper only to end up sitting on the pitch crying later. I'm sure the keeper laughed out of secondhand embarrassment. People say he's disliked because of his political stances, but let's not spin it; the man's just a jerk, there's no way around it. That sort of shameful display just shows he wants to go to the World Cup for himself and not for the national team, someone who actually wants to win grabs the ball out of the back of the net and runs to the center to restart quickly; they don't waste time on showboating shit like that. And people wonder why Brazil is perceived as cocky.
-
-Tbh, I don't think there could've been any other outcome. They came to this tournament with a defeated attitude I've never seen before. They knew they didn't stand a chance. Key players were injured, too. The Morocco match gave us all a preview of the state of the team, there wasn't much to be done. And Ancelotti actively made that shit worse, putting Neymar down at center-forward was exactly what Norway wanted, they barely crossed the halfway line after he shuffled the team. 
-
-Of course, Brazil's still better than most national teams. It's just not the Brazil I know. What a cock-up. Fuck's sake, every single team I was rooting for; Croatia, Cape Verde, Brazil, Japan are all gone from the tournament. Fml. I just hope Argentina doesn't win. Time to cry and watch Ronaldo clips from 2002. 
