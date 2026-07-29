@@ -1,7 +1,11 @@
 /* widgets */
+:root {
+    --bg: #25202c;
+    --link: #bfaecf;
+}
 
 .widget {
-    background: #25202c;
+    background: var(--bg);
     padding: 0.9rem;
     border-radius: 0.75rem;
     border: 1px solid #5d4f6a; 
@@ -36,7 +40,7 @@
 
 #artistName {
     font-size: 1rem;
-    color: #bfaecf;
+    color: var(--link);
 }
 
 #siteInfo {
@@ -46,18 +50,15 @@
     text-align: left;
 }
 
-#status {
-    overflow: scroll;
-    max-height: min-content;
+#statuscafe {
+    text-align: center;
+    margin: 0;
+    line-height: 1.2;
 }
 
-#statusHead {
-    display: block;
-    text-align: center;
-}
-
-#statusText {
-    margin-top: 0.5rem;
-    text-align: center;
-    font-size: small;
+@media (prefers-color-scheme: light) {
+    :root {
+      --bg: #F0EDF4;
+      --link: #81676d;
+    }
 }

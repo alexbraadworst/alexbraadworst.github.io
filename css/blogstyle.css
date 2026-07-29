@@ -1,5 +1,6 @@
 :root{
   --text: #F0EDF4;
+  --card: #2F2934;
   --main: #1b1521;
   --link: #F9C5D1;
   --header: #CAB8DD;
@@ -33,7 +34,7 @@ li {
 .blog-card {
     position: relative;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
-    background-color: #2F2934;
+    background-color: var(--card);
     border: 2px solid #CAB8DD;
     border-radius: 0.5rem;
     padding: 0rem 1rem 1rem 1rem;
@@ -148,4 +149,14 @@ li {
   .blog-content h1, .blog-content h2, .blog-content h3, .blog-content h4 {
     text-align: center;
   }
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+      --text: #1b1521;
+      --card: #d7d7d7;
+      --main: #F0EDF4;
+      --link: #81676d;
+      --header: #6d5981;
+    }
 }
