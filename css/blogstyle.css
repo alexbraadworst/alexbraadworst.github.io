@@ -132,7 +132,7 @@ li {
 .site-subtitle { color: #888; font-size: 0.9rem; margin-top: -0.5rem; }
 .back-arrow { color: #888; text-decoration: none; font-size: 1.5rem; }
 
-.post-title { font-size: 2.2rem; color: #fff; margin-bottom: 0.5rem; }
+.post-title {font-size: 2.2rem; color: var(--text); margin-bottom: 0.5rem; }
 .post-metadata { font-size: 0.85rem; color: #888; margin-bottom: 2rem; }
 .post-date { color: var(--header); }
 
