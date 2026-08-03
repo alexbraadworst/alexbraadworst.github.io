@@ -50,10 +50,23 @@
     text-align: left;
 }
 
-#statuscafe {
-    text-align: center;
-    margin: 0;
-    line-height: 1.2;
+#status {
+    display: flex;
+    gap: 1rem;
+    text-align: left;
+}
+
+#statusHead {
+    font-size: 0.9em;
+    font-style: italic;
+    min-width: 100%;
+    #discord-username {
+        color: var(--link);
+    }
+}
+
+#statusHead p {
+    text-justify: auto;
 }
 
 @media (prefers-color-scheme: light) {
