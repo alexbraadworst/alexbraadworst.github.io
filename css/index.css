@@ -50,7 +50,13 @@
     text-align: left;
 }
 
-#status {
+#statuscafe {
+    text-align: center;
+    margin: 0;
+    line-height: 1.2;
+}
+
+/* #status {
     display: flex;
     gap: 1rem;
     text-align: left;
@@ -67,7 +73,7 @@
 
 #statusHead p {
     text-justify: auto;
-}
+} */
 
 @media (prefers-color-scheme: light) {
     :root {
